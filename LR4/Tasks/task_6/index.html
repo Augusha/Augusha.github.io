@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Заголовок з лініями</title>
+  <style>
+    .header {
+     font-size: 22px;
+     line-height: 22px;
+     margin: 20px 0px;
+     position: relative;
+     overflow: hidden;
+   }
+    .left-right-line-header {
+      text-align: center;
+    }
+    .left-right-line-header:before {
+      content: "";
+      border-bottom: 3px solid #000;
+      width: 50%;
+      height: 0.5em;
+      position: absolute;
+      top: 0px;
+      margin-left: calc(-50% - 10px);
+    }
+    .left-right-line-header:after {
+      content: "";
+      border-bottom: 3px solid #000;
+      width: 50%;
+      height: 0.5em;
+      position: absolute;
+      top: 0px;
+      margin-left: 10px;
+    }
+  </style>
+ </head>
+
+ <body>
+  <h1 class="header left-right-line-header">TITLE</h1>
+   Lorem ipsum dolor sit amet, enim impedit ut vim. Mucius adipisci mel te, eam ut putent albucius appareat. Modus detracto ne vix. Maiestatis suscipiantur vix cu, mea et lucilius accommodare. Commodo feugait vis te. Tota noluisse usu te.
+ </body>
+</html>

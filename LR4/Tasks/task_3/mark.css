@@ -1,0 +1,17 @@
+li {
+    padding-left: 10px;
+}
+li:nth-child(1)::marker {
+    content: "\2660";
+}
+li:nth-child(2)::marker {
+    content: "\2663";
+}
+li:nth-child(3)::marker{
+    content: "\2665";
+    color: red;
+}
+li:nth-child(4)::marker {
+    content: "\2666 ";
+    color: red;
+}

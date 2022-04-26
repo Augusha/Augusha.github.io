@@ -1,0 +1,36 @@
+.battery {
+    display: relative;
+    width: 240px;
+    height: 100px;
+    border: 5px solid black;
+    position: relative;
+    margin-top: 20px;
+}
+.battery::before, .battery:first-child::before, .battery:last-child::before {
+    position: absolute;
+    content: '';
+    top: -.5px;
+    left: -.5px;
+    height: 101%;
+}
+.battery::after {
+    position: absolute;
+    content: '';
+    width: 15px;
+    height: 40px;
+    background: black;
+    top: 30px;
+    left: 241px;
+}
+.battery::before {
+    width: 66%;
+    background: yellow;
+}
+.battery:first-child::before {
+    width: 30%;
+    background: red;
+}
+.battery:last-child::before {
+    width: 241px;
+    background: green;
+}
