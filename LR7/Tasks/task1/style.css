@@ -1,0 +1,41 @@
+.social{
+  text-align:center
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.fa{
+    margin:0px 5px 0px 5px;
+    width: 30px;
+    height: 33px;
+    background-size: 30px 180px;
+}
+.fa-fb{
+    background-image: url('photo.png');
+    background-position-y: 110px;
+    background-position-x: 0px;
+}
+.fa-tw{
+    background-image: url('photo.png');
+    background-position-y: 38px;
+    background-position-x: 0px;
+}
+.fa-yt{
+    background-image: url('photo.png');
+    background-position-y: 143px;
+    background-position-x: 0px;
+}
+.fa-sp{
+    background-image: url('photo.png');
+    background-position-y: 77px;
+    background-position-x: 0px;
+}
+.fa-ins{
+    background-image: url('photo.png');
+    background-position-y: 0px;
+    background-position-x: 0px;
+}
