@@ -1,0 +1,48 @@
+.find-us-on-the-map {
+  background-image: url(../images/map.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  box-sizing: border-box;
+}
+.find-us-on-the-map .layer{
+  width: 100%;
+  height: 400px;
+  background-color: black;
+  padding-top: 200px;
+  box-sizing: border-box;
+  opacity: 0.8;
+}
+.find-us-on-the-map .enter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 250px;
+}
+.find-us-on-the-map .enter div {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+  color: white;
+}
+.find-us-on-the-map .enter div:hover {
+  font-size: 18px;
+  transition-duration: 0.2s;
+}
+.find-us-on-the-map .click {
+  text-decoration: none;
+  }
+.find-us-on-the-map .button {
+  width: 20px;
+  height: 20px;
+  background-color: #19BD9A;
+  border-radius: 19px;
+  background-image: url(../images/pick.png);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 10px;
+}
+

@@ -1,0 +1,111 @@
+.testimonials {
+  background-color: #F3F3F3;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+}
+.testimonials .lable11 {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  color: #333b46;
+  font-size: 20px;
+}
+.testimonials .lable22 {
+  width: 500px;
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 14px;
+  color: #81868E;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 25px;
+  letter-spacing: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 768px) {
+  .testimonials .lable22 {
+    width: 80%;
+  }
+}
+.testimonials .comments {
+  background-color: white;
+  width: 70%;
+  margin: 0 auto;
+  padding: 5%;
+}
+.testimonials .comments .swiper-container {
+  margin-bottom: 30px;
+}
+.testimonials .comments .swiper-container .swiper-wrapper .slide {
+  display: flex;
+  flex-direction: row;
+}
+.testimonials .comments .swiper-container .swiper-wrapper .slide img {
+  width: 130px;
+  height: 130px;
+  margin-right: 50px;
+}
+@media (max-width: 785px) {
+  .testimonials .comments .swiper-container .swiper-wrapper .slide img {
+    display: none;
+  }
+}
+.testimonials .comments .swiper-container .swiper-wrapper .slide .text .text1 {
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #81868E;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 25px;
+  letter-spacing: 1px;
+  text-align: justify;
+}
+.testimonials .comments .swiper-container .swiper-wrapper .slide .text .text2 {
+  margin-bottom: 12px;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 0px;
+  letter-spacing: 1px;
+  color: #19BD9A;
+}
+.testimonials .comments .swiper-container .swiper-wrapper .slide .text .text3 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 25px;
+  letter-spacing: 1px;
+  color: #464646;
+  font-weight: bold;
+}
+
+.testimonials .comments .buttons {
+  width: 55px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.testimonials .comments .buttons .button1 {
+  width: 11px;
+  height: 11px;
+  background-color: #19BD9A;
+  border: solid 1px #19BD9A;
+  border-radius: 11px;
+}
+.testimonials .comments .buttons .button2 {
+  width: 11px;
+  height: 11px;
+  border: solid 1px #19BD9A;
+  border-radius: 11px;
+  cursor: pointer;
+}
+.testimonials .comments .buttons .button2:hover {
+  background-color: lightgrey;
+}
+@media (max-width: 860px) {
+  .slider_item .photo {
+    display: none;
+  }
+}

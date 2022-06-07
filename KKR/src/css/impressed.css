@@ -1,0 +1,75 @@
+.impressed {
+  background-image: url("../images/impressed-bg.jpg");
+  background-size: cover;
+  padding-bottom: 75px;
+  box-sizing: border-box;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.impressed .lable {
+  display: inline-block;
+  width: 50%;
+  height: 131px;
+  margin-top: 82px;
+  color: white;
+}
+@media (max-width: 768px) {
+  .impressed .lable {
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+.impressed .lable .text1 {
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  color: #f3f3f3;
+}
+.impressed .lable .text2 {
+  margin-bottom: 25px;
+  font-family: 'Open Sans', sans-serif;
+  color: #b2b3b3;
+  line-height: 25px;
+  letter-spacing: 1px;
+  hyphens: auto;
+}
+.impressed .lable .text3 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  color: #b2b3b3;
+  line-height: 25px;
+  letter-spacing: 1px;
+  margin-bottom: 0px;
+}
+.impressed .lable .text4 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  color: #b2b3b3;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+.impressed .lable .text4 span {
+  color: #19BD9A;
+}
+.impressed .monitor {
+  position: relative;
+  float: right;
+  top: -30px;
+}
+.impressed .monitor div {
+  position: absolute;
+  color: white;
+  top: 112px;
+  left: 137px;
+  font-size: 30px;
+  font-family: "BIG JOHN";
+}
+.impressed .monitor div span {
+  color: #19BD9A;
+}
+@media (max-width: 1025px) {
+  .impressed .monitor {
+    display: none;
+  }
+}

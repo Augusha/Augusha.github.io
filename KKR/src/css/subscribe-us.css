@@ -1,0 +1,95 @@
+.subscribe-us {
+  background-image: url(../images/subscribe.jpg);
+  background-size: cover;
+  padding-top: 80px;
+  box-sizing: border-box;
+  padding-bottom: 80px;
+}
+.subscribe-us .lab1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.subscribe-us .lab2 {
+  margin-bottom: 60px;
+  max-width: 500px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+  color: #81868E;
+  line-height: 25px;
+  font-size: 14px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 600px) {
+  .subscribe-us .lab2 {
+    width: 90%;
+  }
+}
+.subscribe-us .form {
+  width: 35%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 40px;
+}
+@media (max-width: 900px) {
+  .subscribe-us .form {
+    width: 60%;
+  }
+}
+@media (max-width: 500px) {
+  .subscribe-us .form {
+    flex-direction: column;
+    align-items: center;
+    height: 70px;
+    width: 60%;
+  }
+  .subscribe-us .form input[type=submit] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+.subscribe-us .form input[type=text] {
+  margin-right: 15px;
+  border: solid 1px #81868e;
+  width: 60%;
+  background-color: rgba(0, 0, 0, 0);
+  color: #CFD3D4;
+  font-size: 17px;
+  padding-left: 4%;
+}
+
+.subscribe-us .form input[type=submit] {
+  width: 30%;
+  background-color: #19BD9A;
+  border: solid 1px #19BD9A;
+  color: white;
+}
+.subscribe-us .form input[type=submit]:hover {
+  background-color: #099D7A;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+.subscribe-us .form input[type=submit]:focus-visible {
+  background-color: #B3DAE0;
+}
+@media (max-width: 500px) {
+  .subscribe-us .form input[type=text] {
+    margin-right: 0px;
+    width: 90%;
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .subscribe-us .form input[type=submit] {
+    margin-right: 0px;
+    width: 50%;
+    margin-top: 10px;
+  }
+}
