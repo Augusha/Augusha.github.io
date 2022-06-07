@@ -124,6 +124,7 @@
     user-select: none;
     margin-right: 40px;
     padding-top: 5px;
+    margin-top: 8px;
   }
   header .menuClose {
     display: none;
