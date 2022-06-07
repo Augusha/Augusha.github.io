@@ -1,0 +1,28 @@
+.foreground-circle{
+     fill:none;
+     stroke:#19BD9A
+}
+
+.foreground-circle-without-stroke-color{
+     fill:none;
+}
+
+.background-circle{
+     fill:none;
+     stroke: #047378;
+}
+
+.circle-text{
+     color: #81868E;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
+     text-align: center;
+}
+
+.circle-container{
+     overflow:visible
+}
+
+.point-circle{
+     fill:#f0f8ff;
+}

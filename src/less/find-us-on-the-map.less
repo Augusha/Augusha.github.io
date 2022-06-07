@@ -1,0 +1,53 @@
+.find-us-on-the-map{
+
+	.start_back{
+		width: 100%;
+		height: 400px;
+		background-color: #242424;
+		padding-top: 200px;
+		box-sizing: border-box;
+
+		.enter{
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			align-items: center;
+			margin: 0 auto;
+			width: 200px;
+
+			div{
+				font-size: 16px;
+				font-family: "open sans";
+				color: white;
+			}
+
+			.button{
+				width: 20px;
+				height: 20px;
+				background-color: #19BD9A;
+				border-radius: 19px;
+				background-image: url(../images/pick.png);
+				background-repeat: no-repeat;
+				background-position-x: center;
+				background-position-y: center;
+
+				&:hover{
+					width: 24px;
+					height: 24px;
+					transition-property: width, height;
+					transition-duration: 0.5s;
+				}
+			}
+		}
+	}
+
+	.map{
+		height: 429px;
+		display: none;
+		
+		iframe{
+			width: 100%;
+			height: 100%;
+		}
+	}
+}

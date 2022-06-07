@@ -1,0 +1,167 @@
+header{
+	@media(min-width: 875px){
+		position: fixed;
+		width: 100%;
+		top: 0px;
+		z-index: 9999;
+		box-sizing: border-box;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 20px;
+		height: 60px;
+
+		.logo{
+			display: block;
+			font-family: "BIG JOHN";
+			color: white;
+			font-size: 19px;
+			float: left;
+			text-decoration: none;
+			width: auto;
+			height: auto;
+			padding: 5px;
+			border-radius: 5px;
+
+			&:hover{
+				font-size: 21px;
+				transition-property: font-size;
+				transition-duration: 0.5s;
+			}
+
+			&:focus-visible{
+				background-color: #B3DAE0;
+				transition-duration: 0s;
+			}
+		}
+
+		.menu{
+			display: none;
+		}
+
+		ul{
+			display: flex;
+			flex-direction: row;
+			float: right;
+			align-items: center;
+
+			a{
+				display: block;
+				color:white;
+				font-family: "open sans";
+				font-size: 17px;
+				flex-basis: 100px;
+				margin-right: 40px;
+				text-decoration: none; 
+				width: auto;
+				height: auto;
+				padding: 5px;
+				border-radius: 5px;
+
+				&:hover{
+					background-color: #140F23;
+					color: white;
+					transition-property: background-color, color;
+					transition-duration: 0.5s;
+				}
+
+				&:focus-visible{
+					background-color: #B3DAE0;
+					transition-duration: 0s;
+				}
+
+				&:active{
+					background-color: #443F63;
+					transition-property: background-color;
+					transition-duration: 0s;
+				}
+
+				
+			} 
+		}
+	}
+	@media(max-width: 874px){
+		position: fixed;
+		width: 100%;
+		top: 0px;
+		z-index: 9997;
+		box-sizing: border-box;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		height: 60px;
+		
+
+		.logo{
+			font-family: "BIG JOHN";
+			color: white;
+			font-size: 19px;
+			line-height: 36px;
+			float: left;
+			text-decoration: none;
+		}
+
+		.menu{
+			display: block;
+			float: right;
+			background-image: url(../images/menu-icon.svg);
+			background-size: 100% 100%;
+			width: 50px;
+			height: 50px;
+			z-index: 9999;
+		}
+
+		.menuClose{
+			display: none;
+		}
+
+		.menuOpen{
+			display: flex;
+			flex-direction: column;
+			position: fixed;
+			width: 100%;
+			top: 60px;
+			left: 0px;
+			z-index: 9998;
+			box-sizing: border-box;
+			padding-top: 20px;
+			background-color: white;
+			height: 50vh;
+
+			li{
+				height: 40px;
+				width: 100%;
+				line-height: 40px;
+				font-size: 30px;
+				text-align: center;
+				font-family: "open sans";
+				color: #efefef;
+
+				&:nth-child(odd){
+					background-color: #29CDAA;
+				}
+
+				&:nth-child(even){
+					background-color: #0BAF8C;
+				}
+
+				& > *{
+					text-decoration: none;
+					color: white;
+				}
+			}
+		}
+	}
+}
+
+.headerOpen{
+	background-color: white !important;
+
+	.logo{
+		color: black;
+	}
+}
+
+.headerClose{
+	background-color: rgba(0, 0, 0, 0);
+}

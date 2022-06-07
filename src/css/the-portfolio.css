@@ -1,0 +1,116 @@
+.the-portfolio {
+  background-color: #F3F3F3;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+.the-portfolio .lab1 {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  color: #333b46;
+}
+.the-portfolio .lab2 {
+  margin-bottom: 80px;
+  max-width: 457px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  color: #81868e;
+  width: 500px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  margin-bottom: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #81868E;
+}
+@media (max-width: 768px) {
+  .the-portfolio .lab2 {
+    width: 80%;
+  }
+}
+.the-portfolio .masonry {
+  column-gap: 15px;
+  width: 90%;
+  max-width: 1111px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+@media (max-width: 480px) {
+  .the-portfolio .masonry {
+    column-count: 1;
+  }
+}
+@media (min-width: 481px) and (max-width: 620px) {
+  .the-portfolio .masonry {
+    column-count: 2;
+  }
+}
+@media (min-width: 621px) and (max-width: 1023px) {
+  .the-portfolio .masonry {
+    column-count: 3;
+  }
+}
+@media (min-width: 1024px) {
+  .the-portfolio .masonry {
+    column-count: 4;
+  }
+}
+.the-portfolio .masonry .grid-item {
+  margin: 8px 0;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+.the-portfolio .masonry .grid-item img {
+  max-width: 100%;
+  height: auto;
+}
+.the-portfolio .footer {
+  max-width: 1111px;
+  width: 90%;
+  height: 200px;
+  background-image: url(../images/port-foot.jpg);
+  background-position-x: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+  box-sizing: border-box;
+}
+.the-portfolio .footer .lab {
+  text-align: center;
+  margin-bottom: 27px;
+  font-size: 20px;
+  font-family: "open sans";
+  color: white;
+}
+.the-portfolio .footer .button {
+  display: block;
+  width: 141px;
+  height: 38px;
+  border: solid 1px white;
+  border-radius: 38px;
+  text-align: center;
+  line-height: 38px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  font-family: "open sans";
+  color: white;
+  text-decoration: none;
+}
+.the-portfolio .footer .button:hover {
+  background-color: white;
+  color: #81868E;
+  transition-property: background-color, color;
+  transition-duration: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .the-portfolio .footer {
+    width: 100%;
+  }
+}

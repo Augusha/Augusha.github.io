@@ -1,0 +1,98 @@
+.details-about-bouncy{
+	background-color: #F3F3F3;
+	padding-top: 60px;
+	padding-bottom: 50px;
+	box-sizing: border-box;
+
+	&__tittle{
+		text-align: center;
+		margin: 0 auto 30px auto;
+	}
+
+	&__text{
+		width: 457px;
+		text-align: center;
+		margin: 0 auto 45px auto;
+
+		@media (max-width: 768px){
+			width: 80%;
+		}
+	}
+
+	&__buttons{
+		width: 215px;
+		margin: 0 auto 45px auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+
+		*{
+			background-color: #81868E;
+			width: 54px;
+			height: 54px;
+			border-radius: 54px;
+			background-repeat: no-repeat;
+			background-position-x: center;
+			background-position-y: center;
+		}
+
+		.button1{
+			background-color: #19BD9A;
+			background-image: url(../images/heart.png);
+		}
+
+		.button2{
+			background-image: url(../images/mouse.png);
+		}
+
+		.button3{
+			background-image: url(../images/lamp.png);
+		}
+	}
+
+	.swiper-container {
+		width: 80%;
+	}
+
+	.swiper-slide{
+
+		.content1{
+			margin-bottom: 20px;
+			color: #464646;
+			font-size: 20px;
+			font-family: "open sans";
+		}
+
+		.content2{
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			width: 100%;
+			grid-gap: 30px;
+
+			@media(max-width: 768px){
+				flex-direction: column;
+				justify-content: flex-start;
+				grid-gap: 15px;
+
+				& > *{
+					width: 100%;
+				}
+			}
+
+			.con1{
+				color: #81868E;
+				font-size: 20px;
+				font-family: "open sans";
+				text-align: justify;
+			}
+
+			.con2{
+				color: #81868E;
+				font-size: 14px;
+				font-family: "open sans";
+				text-align: justify;
+			}
+		}
+	}		
+}
