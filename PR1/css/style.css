@@ -182,7 +182,7 @@ bottom: 0px;
 left: 0px;
 }
 footer .container a,
-footer>.container>.namer{
+footer .container .namer{
 	color: #c2d0e4;
 }
 .copyright{
