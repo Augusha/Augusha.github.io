@@ -181,9 +181,7 @@ position: relative;
 bottom: 0px;
 left: 0px;
 }
-footer .container a{
-	color: #c2d0e4;
-}
+footer .container a,
 footer>.container>.namer{
 	color: #c2d0e4;
 }
