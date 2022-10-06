@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Task 5</title>
+    <style >
+        a {
+            color: black;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="#" id="linkCar">--> Наведіться сюди <--</a>
+    <script>
+
+        const linkCar = document.getElementById("linkCar");
+
+        linkCar.addEventListener("mouseover", (event) => {
+            const inputText = prompt("Text");
+            if (inputText) alert(inputText);
+        });
+
+    </script>
+</body>
+
+</html>

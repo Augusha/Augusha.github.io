@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Task 7</title>
+</head>
+
+<body>
+    <script>
+        let firstNum = prompt("Введіть перше число");
+        let secondNum = prompt("Введіть друге число");
+
+        if (isNaN(firstNum) || isNaN(secondNum)) {
+            alert("Не числа");
+        } else {
+            firstNum == secondNum
+                ? alert("Числа однакові")
+                : alert("Більшим є число " + Math.max(firstNum, secondNum));
+        }
+    </script>
+</body>
+
+</html>
