@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Завдання 3</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        font-size: 23px;
+        font-family: cursive;
+    }
+    #images {
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+    }
+    #images div {
+        width: 100%;
+        min-height: 400px;
+        background-size: 100% 100%;
+        border: 1px solid black;
+        background-image: url("https://a.d-cd.net/2bd7a44s-960.jpg");
+    }
+</style>
+
+<body>
+    <span>Наведіть курсор для зміни зображення</span><br>
+    <div id="images">
+        <div class="images_item"></div>
+        <div class="images_item"></div>
+        <div class="images_item"></div>
+    </div>
+    <script>
+        function getRandomArbitrary(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+        const arrImages = [
+            "https://i.pinimg.com/originals/03/7c/0c/037c0c2e87f66ecd0853ec22fe3c8d65.jpg",
+            "https://a.d-cd.net/2bd7a44s-960.jpg",
+            "https://i.pinimg.com/originals/20/27/24/202724a7ae85bfa002f50db502660a33.jpg",
+            "https://img.panama.ua/6/6z/6zt5fsdhc49o.jpg",
+            "https://i.pinimg.com/originals/5b/bc/b7/5bbcb79d1df9b9835d8b5b1fbd56fea8.jpg",
+            "https://a.d-cd.net/1a37a44s-960.jpg",
+            "https://img.panama.ua/r/ro/rogmhzhr3kmp.jpg",
+            "https://kartinki-dlya-srisovki.ru/wp-content/uploads/2018/11/kartinki-iz-multika-tachki-1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThw037EBwt84FXA74Iyr3Kv8TJ_gSs8QPNA&usqp=CAU"
+        ];
+        const containerImages = document.getElementById('images');
+
+        containerImages.addEventListener('mouseover', (event) => {
+            let element = event.target;
+
+            if (!element.classList.contains("images_item")) return false;
+
+            let index = Number.parseInt(getRandomArbitrary(0, arrImages.length));
+
+            element.style.backgroundImage = `url(${arrImages[index]})`;
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Завдання 4</title>
+</head>
+<style>
+    html{
+        background-color: lightgrey;
+    }
+    .img {
+        width: 400px;
+        height: 300px;
+        margin: 0 auto;
+        
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 5px;
+    }
+    .buttons{
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+    }
+    button{
+        width: 90px;
+        height: 40px;
+        font-size: 20px;
+        border: 0;
+        border-radius: 5px;
+    }
+    button:first-child{
+        margin-right: 10px;
+    }
+    button:hover{
+        background-color: rgb(200, 200, 200);
+        transition: 0.2s;
+        cursor: pointer;
+    }
+</style>
+<body>
+    <div class=img></div>
+    <div class=buttons>
+        <button id="prev">Назад</button>
+        <button id="next">Далі</button>
+    </div>
+    <script>
+        const arrImages = [
+            "https://i.pinimg.com/originals/03/7c/0c/037c0c2e87f66ecd0853ec22fe3c8d65.jpg",
+            "https://a.d-cd.net/2bd7a44s-960.jpg",
+            "https://i.pinimg.com/originals/20/27/24/202724a7ae85bfa002f50db502660a33.jpg",
+            "https://img.panama.ua/6/6z/6zt5fsdhc49o.jpg",
+            "https://i.pinimg.com/originals/5b/bc/b7/5bbcb79d1df9b9835d8b5b1fbd56fea8.jpg",
+            "https://a.d-cd.net/1a37a44s-960.jpg",
+            "https://img.panama.ua/r/ro/rogmhzhr3kmp.jpg",
+            "https://kartinki-dlya-srisovki.ru/wp-content/uploads/2018/11/kartinki-iz-multika-tachki-1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThw037EBwt84FXA74Iyr3Kv8TJ_gSs8QPNA&usqp=CAU",
+        ];
+        let i = 0;
+        const areaImage = document.querySelector('div');
+        const btnNextImage = document.getElementById('next');
+        const btnPrevImage = document.getElementById('prev');
+
+        areaImage.style.backgroundImage = `url(${arrImages[i]})`;
+
+        btnNextImage.addEventListener('click', (event) => {
+            i++;
+            if (i == arrImages.length) i = 0;
+
+            areaImage.style.backgroundImage = `url(${arrImages[i]})`;
+        });
+
+        btnPrevImage.addEventListener('click', (event) => {
+            if (i == 0) i = arrImages.length;
+            i--;
+            areaImage.style.backgroundImage = `url(${arrImages[i]})`;
+        });
+    </script>
+</body>
+</html>

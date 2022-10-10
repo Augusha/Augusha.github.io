@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Завдання 2</title>
+</head>
+
+<body>
+    <button id="btnOpenWindow">Відкрити діалогове вікно</button>
+    <script>
+        let btnControlCurrentWindow = document.getElementById('btnOpenWindow');
+        btnControlCurrentWindow.addEventListener('click', () => {
+            if (confirm("Відкрити(ОК) інший документ чи ні(Скасувати)?")) window.open();
+            else window.close();
+        });
+    </script>
+</body>
+</html>

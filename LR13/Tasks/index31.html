@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Завдання 1</title>
+    </head>
+    <style>
+        form * {
+            display: flex;
+            margin-bottom: 1%;
+        }
+    </style>
+
+    <body>
+        <form>
+            <label for="userName" >Ім'я</label>
+            <input type="text" name="userName" placeholder="Name">
+            <label for="icecream">Морозиво</label>
+            <input type="checkbox" name="icecream">
+            <label for="chocolate">Шоколад</label>
+            <input type="checkbox" name="chocolate">
+            <button name="send">Відправити</button>
+        </form>
+        <script>
+            const form = document.querySelector('form');
+            form.userName.addEventListener("focus", (event) => {
+                console.log("Впишіть сюди своє ім'я");
+            });
+            form.icecream.addEventListener("change", (event) => {
+                console.log("Ви обрали морозиво");
+            });
+            form.chocolate.addEventListener("change", (event) => {
+                console.log("Ви обрали шоколад");
+            });
+            form.send.addEventListener("click", (event) => {
+                event.preventDefault();
+                alert("Дякуємо за участь в опитуванні!");
+                console.clear();
+                form.reset();
+            });
+        </script>
+    </body>
+</html>
