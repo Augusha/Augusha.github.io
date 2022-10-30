@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 3</title>
+    <style>
+        html {
+            background-color: cyan;
+            font-size: 23px;
+        }
+        body{
+            margin-top: 3%;
+            margin-left: 3%;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="showText"></p>
+    <script>
+        const text = "Друкарська машина".split("");
+        const outputElement = document.getElementById("showText");
+        let i = 0;
+        let idInterval = setInterval(() => {
+          outputElement.textContent = outputElement.textContent + text[i];
+          i++;
+        }, 250);
+        setTimeout(() => {
+          clearInterval(idInterval);
+        }, text.length * 250);
+    </script>
+</body>
+
+</html>
