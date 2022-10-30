@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Task 5</title>
+    <style>
+      html {
+            background-color: cyan;
+            font-size: 23px;
+            font-family: cursive;
+      }
+      body{
+            margin-top: 1%;
+            margin-left: 3%;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Фрагмент коду зображено в консолі</p>
+    <script>
+      function removeTages(str){
+        console.log("BEFORE: " + str + " length:" + str.length);
+        let reg = new RegExp("<p>|<br>|<font>|<hr>", "g");
+        if (reg.test(str)) {
+          str = str.replace(reg, "");
+        }
+        console.log("AFTER: " + str + " length:" + str.length);
+      }
+      let str ="<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br>Facilis quod optio <br>dicta corporis simi<font>lique temporibus. Quisquam autem dignissimos harum quas in beatae deleniti<hr>esse, quis magnam atque quam. Aperiam, labore!</p>";
+      removeTages(str);
+    </script>
+  </body>
+</html>

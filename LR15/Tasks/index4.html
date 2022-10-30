@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Task 4</title>
+    <style>
+      html {
+            background-color: cyan;
+            font-size: 23px;
+            font-family: cursive;
+      }
+      body{
+            margin-top: 1%;
+            margin-left: 3%;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Фрагмент коду зображено в консолі</p>
+    <script>
+      function removeHtmlComments(str){
+        console.log("BEFORE: "+str);
+          let reg = new RegExp("<!--(.*?)-->", "g");
+          if (reg.test(str)) {
+            str = str.replace(reg, "");
+          }
+          console.log("AFTER: "+str);
+      }
+      let str= '<!-- коментар для видалення --> <div class="content">...</div> <!-- коментар для видалення --> <div class="content">...</div>"';
+      removeHtmlComments(str);
+    </script>
+  </body>
+</html>

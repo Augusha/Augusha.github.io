@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 7</title>
+  <style>
+    html {
+      background-color: cyan;
+      font-size: 23px;
+      font-family: cursive;
+    }
+    body{
+      margin-top: 1%;
+      margin-left: 3%;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    function validateYear (year){
+      let reg = new RegExp("(([1]{1}[9]{1}[0-9]{2})){1}|(([2]{1}[0]{1}[0-9]{2})){1}$");
+      if (reg.test(year)) {
+       document.write("<br>Введене значення "+year+" є в межах дозволеного (1900-2099)");
+      }
+      else{
+        document.write("<br>Введене значення "+year+" не є в межах дозволеного (1900-2099)");
+      } 
+    }
+    validateYear("2022");
+    validateYear("899");
+  </script>
+</body>
+</html>

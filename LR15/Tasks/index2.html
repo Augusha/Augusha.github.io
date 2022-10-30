@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 2</title>
+  <style>
+    html { background-color: cyan; }
+  </style>
+</head>
+<body>
+  <script>
+    function checkIndexLviv(indexCity){
+      let reg = new RegExp("^790[0-7]{1}[0-9]{1}", "g");
+      if (reg.test(indexCity)) {
+        alert("Поштовий індекс коректний  " +indexCity);
+      }
+      else {
+        alert("Поштовий індекс не є коректним "+indexCity);
+      }
+    }
+    checkIndexLviv("79001");
+  </script>
+</body>
+</html>
