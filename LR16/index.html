@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Гринкевич</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Абзац 1</h2>
+    <p>Багатьом людям важко спати під час занять. Однак легко заснути, якщо заздалегідь морально підготуватися. Подрімати після напруженого дня допоможе вам не заснути та бути бадьорим. Крім того, дрімота може підбадьорити вас і допомогти знову зосередитися на уроці. Вчителі часто намагаються зробити свої уроки цікавими, ділячись цікавими фактами чи історіями. Це допомагає студентам не спати під час занять. Але деяким студентам важко прослідкувати ці анекдоти. Їм важко бути уважними і стежити за уроком. Особливо це стосується студентів, які мають проблеми з концентрацією. Але якщо студент засне на уроці, він може ніколи цього не усвідомити.</p>
+    <h2>Абзац 2</h2>
+    <p>Технічно це обман, оскільки він не заплатив за урок. Але психічна самодремота відрізняється від звичайної дрімоти. Якщо ви дрімаєте на роботі, ви, як правило, відпочиваєте своїм тілом, дозволяючи розуму робити свою справу. На противагу цьому, коли ви дрімаєте вдома, ви відпочиваєте своїм тілом, дозволяючи розуму робити свою справу. Таким чином, самостійна дрімота схожа на поєднання дій, пов’язаних із відпочинком і навчанням.</p>
+    <h2>Абзац 3</h2>
+    <p>Зважаючи на це, подрімати після уроку – не найкраща ідея в усіх ситуаціях. Якщо ви пропустили багато нотаток або провалили тест, прокинутися в ліжку може бути не краще, ніж не спати в класі. Натомість спробуйте зосередитися на навчанні до кінця уроку, перш ніж подрімати. Подрімати після заняття спрацьовує, лише якщо ви знайдете час для навчання знову після цього. Таким чином, замість того, щоб проспати іспити, ви нарешті перестанете їх провалювати!</p>
+    <table>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>5</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>8</td>
+          <td>9</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="actions">
+      <img src="https://img.freepik.com/premium-photo/asleep-male-student-during-an-university-lesson_13339-299507.jpg" class="image"></img>
+      <button class="btn" id="start">Спробувати</button>
+    </div>
+</div>
+
+<script>
+  // Варіант 6
+  const paragraphs = document.querySelectorAll("p");
+  const btnChangePositionElements = document.getElementById("start");
+  const table = document.querySelector("table");
+  const picture = document.querySelector(".image");
+  btnChangePositionElements.addEventListener("click", () => {
+    const rows = table.tBodies[0].rows;
+    for (let i = 0; i < rows.length; i++) {
+      rows[i].cells[0].insertAdjacentElement("afterbegin", paragraphs[i]);
+    }
+    table.insertAdjacentElement("beforebegin", picture);
+  });
+</script>
+
+</body>
+</html>
