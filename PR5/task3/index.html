@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 3</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .area {
+      width: 700px;
+      height: 1000px;
+      background-color: lightblue;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+    }
+    .field {
+      width: 600px;
+      height: 900px;
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Football_field.svg/1200px-Football_field.svg.png);
+      background-size: contain;
+    }
+    img {
+      width: 50px;
+      height: 50px;
+      display: block;
+      transition: margin .5s ease-in;
+    }
+  </style>
+
+</head>
+<body>
+  <div class="area">
+    <div class="field">
+      <img src="https://cdn1.iconfinder.com/data/icons/sports-balls-4/32/balls_filled_outline-01-512.png" />
+    </div>
+  </div>
+  <script>
+    const field = document.querySelector(".field");
+    const coordinates = field.getBoundingClientRect();
+    const ball = document.querySelector("img");
+    console.dir(coordinates);
+
+    field.addEventListener("click", (e) => {
+      if (e.clientX > coordinates.x && e.clientX < coordinates.x + coordinates.width) {
+        let centerCoordinateBallX = e.clientX - coordinates.x - ball.width / 2;
+        let centerCoordinateBallY = e.clientY - coordinates.y - ball.height / 2;
+        if (centerCoordinateBallX < 0) 
+          { centerCoordinateBallX = 0; }
+        if (centerCoordinateBallY > coordinates.bottom - coordinates.top - ball.height) 
+          { centerCoordinateBallY = coordinates.height - ball.height; }
+        if (e.clientX > coordinates.right - ball.width / 2) 
+          { centerCoordinateBallX = coordinates.width - ball.width; }
+        if (centerCoordinateBallY < 0) 
+          { centerCoordinateBallY = 0; }
+        ball.style.marginLeft = centerCoordinateBallX + "px";
+        ball.style.marginTop = centerCoordinateBallY + "px";
+      }
+    });
+  </script>
+</body>
+</html>

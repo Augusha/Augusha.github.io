@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 2</title>
+
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.carousel{
+  width: 750px;
+  height: 250px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: lightsalmon;
+   border-radius: 10px; 
+   font-size: 0;
+   position: relative;
+   margin-top: 10%;
+}
+ul{
+  width: 2250px; 
+}
+li{
+  display: inline-block; 
+}
+img{
+  display: block;
+  width: 250px;
+  height: 250px;
+}
+button{
+  width:30px;
+  height:40px;
+  border:none;
+  color:rgba(0,0,0,0.0);
+  background-color: rgba(0,0,0,0.0);
+  border-radius:5px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+ 
+.controls{
+  display: flex;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: inherit;
+  align-items: center;
+  justify-content: space-between;
+
+}
+</style>
+
+</head>
+<body>
+
+
+<div class="carousel">
+  <ul>
+    <li><img src="https://assets.stickpng.com/images/5a24123c6003f508dd5d5b39.png" /></li>
+    <li><img src="https://www.freeiconspng.com/thumbs/emoji-png/heart-emoji-png-2.png" /></li>
+    <li><img src="https://parspng.com/wp-content/uploads/2022/06/imojipng.parspng.com-9.png" /></li>
+    <li><img src="https://www.pngmart.com/files/15/Happy-Emoji-PNG.png" /></li>
+    <li><img src="https://www.freepnglogos.com/uploads/emojis-png/resultado-imagen-emojis-party-fiesta-2.png" /></li>
+    <li><img src="https://assets.stickpng.com/images/58e8ff52eb97430e819064cf.png" /></li>
+    <li><img src="https://www.freepngimg.com/thumb/emoji/10-2-unamused-face-emoji-png.png" /></li>
+    <li><img src="https://freepngimg.com/save/101941-emoji-with-hand-cool-free-hq-image/1920x1920"></li>
+    <li><img src="https://media.tenor.com/yheo1GGu3FwAAAAM/rick-roll-rick-ashley.gif" /></li>
+  </ul>
+  <div class="controls">
+    <button id="left-slide"><</button>
+    <button id="right-slide">></button>
+  </div>
+</div>
+<script>
+const slideLeftBtn = document.getElementById("left-slide");
+const slideRightBtn = document.getElementById("right-slide");
+const listImages = document.querySelector("ul");
+const widthCarousel =
+  document.querySelector(".carousel").clientWidth *
+  (listImages.children.length);
+
+let step = 0;
+function check(){
+  if(step != -1500){
+    slideRightBtn.style.color = "white";
+    slideRightBtn.style.background = "rgba(0,0,0,0.2)";
+    slideRightBtn.style.cursor = "pointer";
+  } else{
+    slideRightBtn.style.color = "rgba(0,0,0,0)";
+    slideRightBtn.style.background = "rgba(0,0,0,0)";
+    slideRightBtn.style.cursor = "default";
+  }
+  if (step < 0) {
+    slideLeftBtn.style.color = "white";
+    slideLeftBtn.style.background = "rgba(0,0,0,0.2)";
+    slideLeftBtn.style.cursor = "pointer";
+  } else{
+    slideLeftBtn.style.color = "rgba(0,0,0,0)";
+    slideLeftBtn.style.background = "rgba(0,0,0,0)";
+    slideLeftBtn.style.cursor = "none";
+  }
+}
+check();
+slideRightBtn.addEventListener("click", (e) => {
+  if (step > -1500) { step -= 250;}
+  listImages.style.marginLeft = step + "px";
+  check();
+});
+
+slideLeftBtn.addEventListener("click", (e) => {
+  step += 250;
+  if (step >= 0) { step = 0; }
+  listImages.style.marginLeft = step + "px";
+  check();
+});
+
+</script>
+</body>
+</html>

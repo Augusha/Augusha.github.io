@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 1</title>
+
+<style>
+  .wrapper_item{
+    max-width:450px;
+    background-color: lightyellow;
+    color:black;
+    position: relative;
+    border-top: 1px solid yellow;
+  }
+  p,h2{
+    padding :5px 10px;
+    margin-bottom: 0;
+  }
+  p{
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .btn{
+  position: absolute;
+  top:5px;
+  right:10px;
+  cursor: pointer;
+  color: red;
+  }
+</style>
+
+</head>
+<body>
+  <div class="wrapper">
+    <div class="wrapper_item">
+      <h2>Android</h2>
+      <p>Android — (вимов Андроїд) операційна система і платформа для мобільних телефонів та планшетних комп'ютерів, створена компанією Google на базі ядра Linux. Підтримується альянсом Open Handset Alliance (OHA).</p>
+      <div class="btn">[x]</div>
+    </div>
+    <div class="wrapper_item">
+      <h2>Mac OS</h2>
+      <p>MacOS, від Macintosh Operating System (Мак ОС, Операційна Система Макінтош), є першою комерційною графічною операційною системою, створеною компанією Apple Computer. Перша версія Mac OS вийшла у 1984 році разом з першим комп'ютером Macintosh.</p>
+      <div class="btn">[x]</div>
+    </div>
+    <div class="wrapper_item">
+      <h2>Windows Phone</h2>
+      <p>Windows Phone (кодова назва «Photon») — велике оновлення Windows Mobile, що вийшло 11 жовтня 2010 року.
+        Дана система є повністю новою, з повністю новим інтерфейсом і — вперше — з інтеграцією сервісів Microsoft Xbox Live і Zune. Презентація системи відбулася в рамках заходу Mobile World Congress, що проходить у Барселоні.</p>
+        <div class="btn">[x]</div>
+      </div>
+
+  </div>
+  <script>
+    let btnsHide = document.querySelectorAll(".wrapper_item");
+    const mainContainer = document.querySelector(".wrapper");
+    mainContainer.addEventListener("click", (e) => {
+      let clickedElement = e.target;
+      if (clickedElement.classList.contains("btn")) {
+        clickedElement.parentElement.style.display = "none";
+      }
+    });
+  </script>
+</body>
+</html>
