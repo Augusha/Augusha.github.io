@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: lightcyan;
+}
+
+.container {
+    width: 1000px;
+    min-height: 300px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.left {
+    margin-left: 10px;
+}
+
+#clearWatch {
+    margin-left: 10px;
+}
+
+.concat {
+    margin: 0 auto;
+    width: 425px;
+}
+form{
+    margin: 0 auto;
+}
+
+.eart {
+    margin: 0 auto;
+    width: 340px;
+}
+
+#map {
+    border: 1px solid black;
+    width: 800px;
+    height: 350px;
+    margin: 0 auto;
+    border: 0px;
+    border-radius: 10px;
+}
+
+input {
+    min-height: 15px;
+    padding: 5px;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    background-color: rgba(200, 200, 200, 0.1);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+input::placeholder{
+    color: rgba(0, 0, 0, 0.2);
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgba(200, 200, 200, 0.1);
+    color: black;
+    width: 200px;
+    height: 40px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+button#watch:hover {
+    background-color: #4caf50;
+    color: white;
+    transition: 0.2s;
+}
+
+button#clearWatch:hover {
+    background-color: #e53935;
+    color: white;
+    transition: 0.2s;
+}
+
+button:last-child:hover {
+    background-color: #2196f3;
+    color: white;
+    transition: 0.2s;
+}
+
+#setCoordiantsOnMap {
+    margin: 15px auto;
+    display: block;
+}
+
+p{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
