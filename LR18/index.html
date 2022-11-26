@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ЛР 8</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="tabs">
+    <div class="tab-header">
+      <div class="tab-h active" data-tab="0">Border radius</div>
+      <div class="tab-h" data-tab="1">Display</div>
+      <div class="tab-h" data-tab="2">Font size</div>
+    </div>
+    <div class="tabContent">
+
+    <div class="border_radius_app">
+      <div>Верхній лівий радіус:
+        <input type="range" id="rtl" min="0" max="100" value="0"   > 
+        <input type="text" id="ttl" value="0" disabled>
+      </div>
+      <div>Верхній правий радіус:
+        <input type="range" id="rtr" min="0" max="100" value="0"  >
+        <input type="text" id="ttr" value="0"  disabled>
+      </div>
+      <div>Нижній правий радіус:
+        <input type="range" id="rbr" min="0" max="100" value="0"  >
+        <input type="text" id="tbr" value="0" disabled>
+      </div>
+      <div>Нижній лівий радіус:
+        <input type="range" id="rbl" min="0" max="100" value="0"  >
+        <input type="text" id="tbl" value="0" disabled>
+      </div>
+      <div id="block"></div>
+        <textarea></textarea>
+      </div>
+    </div>
+
+    <div class="tabContent">
+      <div class="block_display_app">
+        <span>Виберіть значення: </span> 
+        <select class="display_param">
+            <option value="block">block</option>
+            <option value="none">none</option>
+        </select>
+        <div class="container_display">
+          <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, dicta deserunt quam fuga non voluptate cumque obcaecati ab temporibus debitis corporis quos animi laudantium assumenda aperiam possimus? Harum, quo reiciendis?</span>  
+        </div>
+      </div>
+    </div>
+
+    <div class="tabContent">
+      <div class="text_size_app">
+        <span>Виберіть значення: </span>  
+        <select class="size_value">
+          <option value="15">15px</option>
+          <option value="20">20px</option>
+          <option value="25">25px</option>
+          <option value="30">30px</option>
+          <option value="35">35px</option>
+          <option value="40">40px</option>
+          <option value="45">45px</option>
+          <option value="50">50px</option>
+          <option value="55">55px</option>
+          <option value="60">60px</option>
+        </select>
+        <p class="size_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, dicta deserunt quam fuga non voluptate cumque obcaecati ab temporibus debitis corporis quos animi laudantium assumenda aperiam possimus? Harum, quo reiciendis?</p>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
