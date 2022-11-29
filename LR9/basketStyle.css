@@ -1,9 +1,52 @@
+body{
+  height: 100vh;
+  background: repeating-linear-gradient(
+    135deg,
+    #D50000,
+    #D50000 20px,
+    #C51162 20px,
+    #C51162 40px,
+    #AA00FF 40px,
+    #AA00FF 60px,
+    #6200EA 60px,
+    #6200EA 80px,
+    #304FFE 80px,
+    #304FFE 100px,
+    #2962FF 100px,
+    #2962FF 120px,
+    #0091EA 120px,
+    #0091EA 140px,
+    #00B8D4 140px,
+    #00B8D4 160px,
+    #00BFA5 160px,
+    #00BFA5 180px,
+    #00C853 180px,
+    #00C853 200px,
+    #64DD17 200px,
+    #64DD17 220px,
+    #AEEA00 220px,
+    #AEEA00 240px,
+    #FFD600 240px,
+    #FFD600 260px,
+    #FFAB00 260px,
+    #FFAB00 280px,
+    #FF6D00 280px,
+    #FF6D00 300px,
+    #DD2C00 300px,
+    #DD2C00 320px
+  );
+}
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
+.title{
+    width: 100%;
+    text-align: center;
+    color: white; 
+    font-family: 'Montserrat', sans-serif;
+}
 button {
     min-width: 40px;
     min-height: 40px;
@@ -41,9 +84,11 @@ input[type="number"] {
 
 .wrapper {
     max-width: 970px;
-    height: 100%;
+    height: 600px;
     margin: 0 auto;
     margin-bottom: 20px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.6) 0px 7px 29px 0px;
 }
 
 .chapter_page {
@@ -133,6 +178,7 @@ input[type="number"] {
     justify-content: space-between;
     align-items: center;
     border-top: 0;
+    background-color: white;
 }
 
 .total_sum {
