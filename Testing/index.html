@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    
+	<head>
+		<title>California Map</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <link href="css/reset.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+    
+    <body>
+        
+        <h2>California Map</h2>
+        
+
+        <div id="concert-map">
+            <div class="pin amador">
+                <span class="town">Amador Cathedral</span>
+                <div class="popover">
+                    <p class="place">Wizink Center</p>
+                    <p class="date">October 7, 2017</p>
+                    <a class="button" onclick='openForm()'>Buy tickets</a>
+                </div>
+            </div>
+
+            <div class="pin presto_valley">
+                <span class="town">Presto Valley</span>
+                <div class="popover">
+                    <p class="place">Wizink Center</p>
+                    <p class="date">October 7, 2017</p>
+                    <a class="button" onclick='openForm()'>Buy tickets</a>
+                </div>
+            </div>
+            
+            <div class="pin SF">
+                <span class="town">SF</span>
+                <div class="popover">
+                    <p class="place">San Francisco</p>
+                    <p class="place">Location contains:</p>
+                    <p class="date">Civilian</p>
+                    <p class="date">Military</p>
+                    <p class="date">Medicine</p>
+                    <p class="date">Police station</p>
+                    <p class="date">Fire station</p>
+                    <a class="button" onclick='openForm()'>More info</a>
+                </div>
+            </div>
+
+            <div class="pin oakland">
+                <span class="town">Oakland</span>
+                <div class="popover">
+                    <p class="place">Oakland</p>
+                    <p class="date">October 14, 2017</p>
+                    <a class="button" onclick='openForm()'>More info</a>
+                </div>
+            </div>
+            
+            <div class="pin scotts_valley">
+                <span class="town">Scotts Valley</span>
+                <div class="popover">
+                    <p class="place">Scotts Valley</p>
+                    <p class="place">Location contains:</p>
+                    <p class="date">Civilian</p>
+                    <p class="date">Military</p>
+                    <p class="date">Medicine</p>
+                    <p class="date">Police station</p>
+                    <p class="date">Fire station</p>
+                    <a class="button" onclick='openForm()'>More info</a>
+                </div>
+            </div>
+
+        <div class="modal-window">
+        <div class="send-form">
+
+            <form action="#">
+
+                <label class="field-name-form">
+
+                    Name:<input type="text" required></label>
+
+                <label class="field-name-form" for="phone">
+                    Phone Number:<input type="tel" pattern="[0-9]{10}" name="phone" required></label>
+                <label class="field-name-form"> E-mail:<input type="email" required></label>
+
+                <input type="submit" value="Відправити" id="sendForm">
+            </form>
+        </div>
+        </div>
+        </div>
+
+    <script src="js/script.js"></script>
+
+        <a style="text-align: center; color: #fafafa; display: block; font-size: 40px; margin-bottom: 50px;" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Press it</a>
+    </body>
+</html>
