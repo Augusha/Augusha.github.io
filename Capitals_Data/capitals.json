@@ -1,0 +1,767 @@
+[
+  {
+    "capital": "Tirana",
+    "country": "Albania",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cebraarchitecture.dk/cebra-architecture/wp-content/uploads/2022/10/15-mount-tirana.jpg",
+    "description":"Tirana is the capital and largest city of Albania. It is located in the center of the country, on the Ishm River. Tirana has a population of over 410,000 people. The city was founded in the 17th century by the Ottoman Turks. It became the capital of Albania in 1920.Tirana is a modern city with a mix of old and new architecture. The city center is home to many government buildings, museums, and theaters. There are also many parks and green spaces in Tirana. The city is a popular tourist destination, with many historical and cultural attractions.",
+    "images": [
+      "https://cdn.britannica.com/36/195936-050-7CF4E835/Tirana-Albania.jpg",
+      "https://theholisticbackpacker.com/wp-content/uploads/2022/08/MG_1858.jpg",
+      "https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_1080,h_720/https://drivemefoody.com/wp-content/uploads/albania-tirana-sunset-view-sky-tower-1080x720.jpg",
+      "https://travellingbalkans.com/wp-content/uploads/2019/09/DJI_0853-HDR-1150x862.jpg"
+    ]
+  },
+  {
+    "capital": "Andorra la Vella",
+    "country": "Andorra",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://images.lucasfox.com/location/4x3_1600w/050EB433EF.jpg",
+    "description":"Andorra la Vella is the capital of Andorra, a small country located in the Pyrenees Mountains between France and Spain. It is the highest capital city in Europe, at an elevation of 1,023 meters (3,356 feet).Andorra la Vella is a small city, with a population of just over 22,000 people. The city is home to the Andorran government, as well as a number of shops, restaurants, and hotels.",
+    "images": [
+      "https://mediaim.expedia.com/destination/2/40fb4f1cc18151717167e3b334236a09.jpg",
+      "https://d19tiqumqauva7.cloudfront.net/var/andorra/storage/images/www.andorra.ad/multimedia/galeria/cultura/itineraris-culturals/itinerari-cultural-andorra-la-vella/1906x960_itinerari-cultural-andorra-la-vella/24104076-1-cat-ES/1906x960_itinerari-cultural-andorra-la-vella.jpg",
+      "https://www.collinsdictionary.com/images/full/andorralavella_317791925_1000.jpg",
+      "https://www.worldatlas.com/r/w1200/upload/97/4b/c8/shutterstock-64114618.jpg"
+    ]
+  },
+  {
+    "capital": "Vienna",
+    "country": "Austria",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.travelandleisure.com/thmb/zFpjulihpXjpUV7gKNHzydvJANA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vienna-austria-VIENNATG0621-ecb0ee926c2d49c4bce610db594f7405.jpg",
+    "description":"Vienna is the capital of Austria and the largest city in the country. It is located in the east of Austria, on the Danube River. Vienna has a population of over 1.9 million people. The city is a major center for culture, education, and politics in Austria. Vienna is a beautiful city with a rich history. The city center is home to many historical landmarks, including the Hofburg Palace, the Schönbrunn Palace, and the St. Stephen's Cathedral. Vienna is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://i2-prod.manchestereveningnews.co.uk/incoming/article16169571.ece/ALTERNATES/s1200c/0_Vienna-central.jpg",
+      "https://d3vonci41uckcv.cloudfront.net/old-images/original/3762e33f-6ff4-4d13-a254-96d3b68fee4c.austria-vienna-danube.jpg",
+      "https://www.kkhotels.com/wp-content/uploads/2018/12/2020-02-12-13_52_04-Vienna-Sunset.jpg-IrfanView-Selection_-94-0-800-x-630-1.270.png",
+      "https://www.travelanddestinations.com/wp-content/uploads/2016/04/Vienna-Austria-Best-things-to-do.jpg"
+    ]
+  },
+  {
+    "capital": "Minsk",
+    "country": "Belarus",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2019/06/shutterstock_1282471396.jpg",
+    "description":"\nMinsk is the capital and largest city of Belarus. It is located on the Svisloch River, in the central part of the country. Minsk has a population of over 2 million people. The city was founded in the 11th century and has been the capital of Belarus since 1919. Minsk is a modern city with a mix of old and new architecture. The city center is home to many government buildings, museums, and theaters. There are also many parks and green spaces in Minsk. The city is a popular tourist destination, with many historical and cultural attractions.",
+    "images": [
+      "https://thumbs.dreamstime.com/b/panorama-paysage-urbain-de-minsk-belarus-%C3%A9t%C3%A9-64569970.jpg",
+      "https://www.reisepassnummer.de/assets/images/2018/05/06/minsk/minsk-2677096_1920_klein.jpg",
+      "https://belarus24.by/upload/medialibrary/1ff/1ffdf19f8814695789d4b9e5f752d561.jpg",
+      "https://vetliva.com/upload/resize_cache/iblock/10c/1170_640_23ee4b948f86b68649480f85209bcab9f/10c2348146dd2cf572624e5635662c93.jpg"
+    ]
+  },
+  {
+    "capital": "Brussels",
+    "country": "Belgium",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.visit.brussels/en/visitors/_jcr_content/root/container/content_1226746056_c/multicolumn/teaser_2005755142.coreimg.jpeg/1675354196799/grand-place-4212-%C2%A9-visit.brussels---jean-michel-byl.jpeg",
+    "description":"\nBrussels is the capital of Belgium and of the Brussels-Capital Region. It is a major European center of finance, diplomacy, and culture, with headquarters of many of the world's biggest international organizations, including NATO and the European Union. Brussels is a beautiful city with a rich history. The city center is home to many historical landmarks, including the Grand Place, the Manneken Pis, and the Atomium. Brussels is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://c0.wallpaperflare.com/preview/396/1004/936/belgium-bruxelles-atomium.jpg",
+      "https://c0.wallpaperflare.com/preview/705/114/463/grand-place-brussels-belgium-travel.jpg",
+      "https://c0.wallpaperflare.com/preview/907/665/188/belgium-brussels-parc-du-cinquantenaire-europe.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/1024px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg"
+    ]
+  },
+  {
+    "capital": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.flydubai.com/en/media/Sarajevo_710x473_tcm8-5999.jpg",
+    "description":"\nSarajevo is the capital and largest city of Bosnia and Herzegovina. It is located in the heart of the country, at the confluence of the Miljacka and Bosna rivers. Sarajevo has a population of over 275,000 people. Sarajevo is a beautiful city with a mix of old and new architecture. The city center is home to many historical landmarks, including the Gazi Husrev-bey Mosque, the Vijećnica (City Hall), and the Latin Bridge. Sarajevo is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://e0.pxfuel.com/wallpapers/431/272/desktop-wallpaper-stari-grad-old-town-sarajevo-bosnia-and-herzegovina.jpg",
+      "https://w0.peakpx.com/wallpaper/145/898/HD-wallpaper-gazi-husrev-beg-s-mosque-sarajevo-bosnia-bosnia-mosque-bascarsija-sarajevo-classic-ottoman.jpg",
+      "https://c1.wallpaperflare.com/preview/560/490/360/bosnia-and-herzegovina-bosnia-sarajevo-miljacka.jpg",
+      "https://c0.wallpaperflare.com/preview/55/401/192/bosnia-and-herzegovina-sarajevo-vrelo-bosne.jpg"
+    ]
+  },
+  {
+    "capital": "Sofia",
+    "country": "Bulgaria",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://tourscanner.com/blog/wp-content/uploads/2022/07/things-to-do-in-Sofia.jpg",
+    "description":"Sofia is the capital of Bulgaria and the largest city in the country. It is located in the western part of Bulgaria, at the foot of Vitosha Mountain. Sofia has a population of over 1.2 million people. Sofia is a beautiful city with a mix of old and new architecture. The city center is home to many historical landmarks, including the Alexander Nevsky Cathedral, the Boyana Church, and the National Historical Museum. Sofia is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/499/728/926/alexander-nevsky-cathedral-sofia-bulgaria-wallpaper-preview.jpg",
+      "https://c0.wallpaperflare.com/preview/884/117/291/sofia-bulgaria-crowd-mountain.jpg",
+      "https://c1.wallpaperflare.com/preview/335/230/440/bulgaria-national-assembly-sofia-parliament.jpg",
+      "https://c0.wallpaperflare.com/preview/970/196/870/sofia-bulgaria-architecture-cathedral.jpg"
+    ]
+  },
+  {
+    "capital": "Zagreb",
+    "country": "Croatia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/zagrebgettyimages-1144074611hr.jpg?w=1900&h=1267",
+    "description":"Zagreb is the capital and largest city of Croatia. It is located in the northwest of the country, at the confluence of the Sava and Krka rivers. Zagreb has a population of over 800,000 people. Zagreb is a beautiful city with a mix of old and new architecture. The city center is home to many historical landmarks, including the Zagreb Cathedral, the Lotrščak Tower, and the Stone Gate. Zagreb is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/115/346/484/zagreb-cathedral-europe-croatia.jpg",
+      "https://c1.wallpaperflare.com/preview/866/699/781/zagreb-jarun-park-bright-sunny.jpg",
+      "https://c0.wallpaperflare.com/preview/625/570/420/croatia-zagreb-ban-josip-jela%C4%8Di%C4%87-square.jpg",
+      "https://c1.wallpaperflare.com/preview/128/677/163/ban-jela%C4%8Di%C4%87-building-croatia-photo.jpg"
+    ]
+  },
+  {
+    "capital": "Nicosia",
+    "country": "Cyprus",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.collinsdictionary.com/images/full/nicosia_280198175_1000.jpg",
+    "description":"Nicosia (Greek: Λευκωσία, Lefkosia; Turkish: Lefkoşa) is the capital and largest city of Cyprus. It is located in the centre of the Mesaoria Plain, on the banks of the Pedieos River. Nicosia is the seat of the government of the Republic of Cyprus, as well as the seat of the Turkish Cypriot community's self-declared capital, North Nicosia. Nicosia is also a modern city with a vibrant economy. The city is home to many businesses, banks, and universities. Nicosia is a popular tourist destination, with something to offer everyone. Whether you're interested in history, culture, or nightlife, you're sure to find something to enjoy in Nicosia.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/190/232/905/cyprus-nicosia-square-sculpture-city-building.jpg",
+      "https://w0.peakpx.com/wallpaper/714/928/HD-wallpaper-selimiye-mosque-city-of-edirne.jpg",
+      "https://w0.peakpx.com/wallpaper/356/150/HD-wallpaper-kykkos-monastery-in-cyprus-christianity-europe-cyprus-monastery.jpg",
+      "https://e1.pxfuel.com/desktop-wallpaper/827/318/desktop-wallpaper-of-cyprus-nicosia-nicosia.jpg"
+    ]
+  },
+  {
+    "capital": "Prague",
+    "country": "Czech Republic",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/20/09/prague-overview.jpg",
+    "description":"Prague, the capital of the Czech Republic, is a beautiful city with a rich history. It is located on the Vltava River in the central part of the country. Prague has a population of over 1.2 million people. Prague is a beautiful city with a mix of old and new architecture. The city center is home to many historical landmarks, including the Charles Bridge, the Prague Castle, and the Old Town Square. Prague is also home to many museums, art galleries, and theaters. The city is a popular tourist destination, with something to offer everyone.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/902/457/184/prague-charles-bridge-czech-republic-river-vltava-evening-lights-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/49/957/162/architecture-building-evening-lights-wallpaper-preview.jpg",
+      "https://w0.peakpx.com/wallpaper/335/817/HD-wallpaper-dancing-house-in-prague-building-city-dance-prague.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/e1/1b/2c.jpg"
+    ]
+  },
+  {
+    "capital": "Copenhagen",
+    "country": "Denmark",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/74/c2/dc/caption.jpg?w=700&h=500&s=1",
+    "description":"Copenhagen is the capital of Denmark and one of the most popular tourist destinations in Europe. The city is known for its beautiful architecture, its vibrant nightlife, and its many green spaces. Copenhagen is home to a number of world-famous landmarks, including the Amalienborg Palace, the Rosenborg Castle, and the Round Tower. The city also has a number of museums, including the National Museum of Denmark, the Royal Danish Academy of Fine Arts, and the Copenhagen Museum. In addition to its cultural attractions, Copenhagen is also a great place to enjoy the outdoors. The city has a number of parks and gardens, including the Rosenborg Castle Gardens, the Amalienborg Palace Gardens, and the Copenhagen Botanical Garden. Copenhagen is also home to a number of beaches, including the Langelinie Beach and the Islands Brygge Beach.",
+    "images": [
+      "https://www.travelandleisure.com/thmb/G5hwSYQUTvgGQISOXymFUYYr-Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/copenhagen-dk-COPENHAGENTG0721-4a481cb6025b43d1a781b1571b144f46.jpg",
+      "https://a.cdn-hotels.com/gdcs/production28/d1675/f55e58c8-c184-4198-a75d-4b146892de4c.jpg",
+      "https://www.visitcopenhagen.com/sites/visitcopenhagen.com/files/2023-02/Bike%20city%20-%20photo%20credits%20VisitCopenhagen%2028.jpg",
+      "https://www.staysure.co.uk/wp-content/uploads/2015/07/copenhagen_skyline.jpg"
+    ]
+  },
+  {
+    "capital": "Tallinn",
+    "country": "Estonia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://static.visitestonia.com/images/3560295/1600_900_false_false_82b4d1c3132c5a4824361d0abbf38603.jpg",
+    "description":"Tallinn is the capital of Estonia and is located on the coast of the Gulf of Finland. It is a beautiful city with a rich history dating back to the 13th century. Tallinn is a popular tourist destination and is known for its well-preserved medieval Old Town. Tallinn is a great place to visit for a weekend getaway or a longer vacation. With its rich history, culture, and nightlife, there's something for everyone in Tallinn.",
+    "images": [
+      "https://lp-cms-production.imgix.net/features/2015/12/tallinn-old-town-1500-cs.jpg",
+      "https://file.visittallinn.ee/w1u4r7/detail-tallinnchristmasmarkett2020kaupokalda3.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/472/513/107/tallinn-estonia-old-town-road-houses-wallpaper-preview.jpg",
+      "https://w0.peakpx.com/wallpaper/473/100/HD-wallpaper-tallinn-town-hall-raekoja-plats-town-hall-square-evening-square-tallinn-cityscape-estonia.jpg"
+    ]
+  },
+  {
+    "capital": "Tórshavn",
+    "country": "Faroe Islands",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vestaravag_torshavn%2C_faroe_islands%2C_feb_2005.jpg",
+    "description":"Torshavn is a small city with a population of around 17,000 people. It is located on the Streymoy Island, the largest of the Faroe Islands. Torshavn is a popular tourist destination, known for its beautiful scenery, charming old town, and vibrant cultural scene. Torshavn is a great place to visit for a weekend getaway or a longer vacation. With its beautiful scenery, charming old town, and vibrant cultural scene, there's something for everyone in Torshavn.",
+    "images": [
+      "https://www.iwanderlista.com/wp-content/uploads/2022/03/Torshavn-6.jpg",
+      "https://cdn.britannica.com/88/141188-050-E9E53A17/Torshavn-Faroe-Islands-Den.jpg",
+      "https://handluggageonly.co.uk/wp-content/uploads/2016/07/13305200_10154232920874784_2219183897590260675_o.jpg",
+      "https://questo.imgix.net/misc/5abd05ec-6874-4e73-bf71-e2b4b17d2a7f.jpeg"
+    ]
+  },
+  {
+    "capital": "Helsinki",
+    "country": "Finland",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://a.cdn-hotels.com/gdcs/production0/d1589/6d9eed40-c31d-11e8-9739-0242ac110006.jpg",
+    "description":"Helsinki is the capital of Finland and the most populous city in the Nordic countries. It is located on a peninsula in the Gulf of Finland, with a population of over 600,000 people. Helsinki is a modern city with a rich history, dating back to the 16th century. The city is home to many historical landmarks, including the Senate Square, the Helsinki Cathedral, and the Uspenski Cathedral. Helsinki is also a popular tourist destination, known for its beautiful scenery, vibrant cultural scene, and excellent public transportation system.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/382/764/980/helsinki-cathedral-cathedral-church-helsinki-finland-architecture.jpg",
+      "https://c1.wallpaperflare.com/preview/146/591/743/suomenlinna-viapori-kustaanmiekka-island.jpg",
+      "https://c0.wallpaperflare.com/preview/521/839/733/finland-helsinki-uspenski-cathedral-russian-church.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/871/289/283/finland-fortress-helsinki-island-suomenlinna-hd-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Paris",
+    "country": "France",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://travellersworldwide.com/wp-content/uploads/2022/12/Shutterstock_2045606852.jpg",
+    "description":"Paris is the capital of France and one of the most popular tourist destinations in the world. The city is located on the Seine River in the north-central part of France. Paris has a population of over 2.2 million people and is the most populous city in France. Paris is a city with a rich history dating back to the Roman era. The city has been home to many important events in history, including the French Revolution and the World Wars. Paris is also a city of art and culture, and is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Notre Dame Cathedral.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/930/781/157/eiffel-tower-paris-hd-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/54/118/440/louvre-paris-france-pyramid-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/851/252/967/paris-france-notre-dame-de-paris-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/572/901/228/the-sky-france-paris-the-evening-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Berlin",
+    "country": "Germany",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://media.timeout.com/images/105303515/750/422/image.jpg",
+    "description":"Berlin is the capital and largest city of Germany. It is located in northeastern Germany, on the River Spree. Berlin is a major center for culture, politics, media, and science. The city has a population of over 3.5 million people.\n\nBerlin is a city with a rich history. The city was founded in the 13th century and has been the capital of Germany since 1871. Berlin was heavily damaged during World War II, but it was rebuilt and has since become a thriving metropolis.\n\nBerlin is a city of contrasts. The city is home to many historical landmarks, such as the Brandenburg Gate and the Reichstag, but it is also home to a vibrant and diverse cultural scene. Berlin is a city that is constantly changing and evolving, and it is a great place to visit for a weekend getaway or a longer vacation.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/492/1012/59/monuments-brandenburg-gate-berlin-germany-wallpaper-preview.jpg",
+      "https://c0.wallpaperflare.com/preview/512/220/946/berlin-reichstag-building-germany.jpg",
+      "https://e0.pxfuel.com/wallpapers/866/265/desktop-wallpaper-berlin-wall-berlin-street.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/958/325/226/berlin-museum-island-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Gibraltar",
+    "country": "Gibraltar",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cdn.britannica.com/61/191561-050-1507BA4F/Gibraltar.jpg",
+    "description":"Gibraltar is a British overseas territory located on the southern tip of the Iberian Peninsula. It is bordered to the north by Spain and has an area of 6.7 square kilometers. Gibraltar is a popular tourist destination, known for its beautiful scenery, its strategic location on the Strait of Gibraltar, and its history as a British outpost.\n\nThe Rock of Gibraltar is the most prominent feature of the territory. It is a limestone massif that rises to a height of 426 meters above sea level. The Rock is home to a variety of plant and animal life, including Barbary apes, which are the only wild monkeys in Europe.",
+    "images": [
+      "https://theplanetd.com/images/Rock-of-Gibraltar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Catalan_Bay_Gibraltar.jpg/1024px-Catalan_Bay_Gibraltar.jpg",
+      "https://cdn.britannica.com/61/191561-050-1507BA4F/Gibraltar.jpg",
+      "https://ichef.bbci.co.uk/news/976/mcs/media/images/73969000/jpg/_73969578_gibraltar_peninsular_g.jpg"
+    ]
+  },
+  {
+    "capital": "Athens",
+    "country": "Greece",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg",
+    "description":"Athens is the capital of Greece and is one of the oldest cities in Europe. It is located on the Attica peninsula, and has a population of over 3.7 million people. Athens is a major center for culture, politics, and education. It is home to the National Archaeological Museum, which houses a collection of artifacts from ancient Greece, and the University of Athens, which is the oldest university in Greece. Athens is also a popular tourist destination. The city is home to many historical landmarks, including the Acropolis, the Parthenon, and the Temple of Olympian Zeus. The Acropolis is a hilltop citadel that was once the center of ancient Athens. The Parthenon is a temple that was built on the Acropolis in the 5th century BC. The Temple of Olympian Zeus was a temple that was built in the 2nd century AD.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/732/34/491/greece-athens-acropolis-parthenon-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/836/388/907/europe-parthenon-greece-athen-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/607/836/982/ancient-history-tourism-ruins-temple-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/257/14/559/architecture-old-building-lights-evening-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "St Peter Port",
+    "country": "Guernsey",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.pocruises.com/content/dam/po/inventory-assets/ports/GCI/GCI.jpg.1591372901030.image.750.563.low.jpg",
+    "description":"St Peter Port is the capital of Guernsey, a British Crown dependency in the English Channel. It is a small, charming town with a population of around 20,000 people. St Peter Port is located on the east coast of Guernsey and is the island's main port. The town has a long and rich history. It was founded by the Normans in the 11th century and has been the capital of Guernsey since the 13th century. St Peter Port was heavily damaged during World War II, but it has been rebuilt and is now a thriving town. St Peter Port is a popular tourist destination. The town has a beautiful harbor, a historic old town, and a variety of shops, restaurants, and cafes. St Peter Port is also a popular destination for walkers and cyclists.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/275/677/80/castle-island-castle-cornet-drone.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/173/772/919/castles-castle-cornet-architecture-bailiwick-of-guernsey-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/273/418/521/colors-of-dawn-in-guernsey-channel-isls-wallpaper-preview.jpg",
+      "https://c0.wallpaperflare.com/preview/703/699/820/guernsey-torteval-drone-pleinmont.jpg"
+    ]
+  },
+  {
+    "capital": "Budapest",
+    "country": "Hungary",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.tripsavvy.com/thmb/YZCXPivyMUxMidbeyv7VLEizlEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-hungarian-parliament-on-the-danube-river-at-sunset-in-budapest--hungary-945207010-23afbc9012d54bc4bb7c8a1f8c90075b.jpg",
+    "description":"\nBudapest is the capital of Hungary and is one of the most beautiful cities in Europe. It is located on the banks of the Danube River and is divided into two parts: Buda and Pest. Buda is the older part of the city and is home to many historical landmarks, including the Buda Castle, the Matthias Church, and the Fisherman's Bastion. Pest is the newer part of the city and is home to many cultural attractions, including the Hungarian Parliament Building, the Great Market Hall, and the House of Terror.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/788/723/600/buda-castle-buda-castle-at-night-budapest-hungary.jpg",
+      "https://c1.wallpaperflare.com/preview/919/653/201/budapest-hungary-bastion-fisherman-s.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/786/863/822/chain-bridge-budapest-hungary-europe-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/128/698/536/the-sky-the-city-lights-construction-the-evening-hd-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Reykjavík",
+    "country": "Iceland",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg",
+    "description":"Reykjavik is the northernmost capital city in the world. It is located on the southwestern coast of Iceland, on a peninsula that juts into Faxa Bay. The city has a population of around 120,000 people, making it the largest city in Iceland. Reykjavik is a young city, founded in 874 AD by Ingólfur Arnarson. The city grew slowly for many years, but it began to grow rapidly in the 20th century. Today, Reykjavik is a major center for business, culture, and tourism.",
+    "images": [
+      "https://e0.pxfuel.com/wallpapers/695/604/desktop-wallpaper-magnificent-hallgrimskirkja-church-reykjavik-iceland-statue-modern.jpg",
+      "https://c1.wallpaperflare.com/preview/971/362/540/iceland-harpa-concert-hall-reykjavik-architecture-building.jpg",
+      "https://c1.wallpaperflare.com/preview/731/853/104/iceland-sun-voyager-reykjavik-monument.jpg",
+      "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg"
+    ]
+  },
+  {
+    "capital": "Dublin",
+    "country": "Ireland",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Samuel_Beckett_Bridge_At_Sunset_Dublin_Ireland_%2897037639%29_%28cropped%29.jpeg",
+    "description":"Dublin is the capital and largest city of Ireland. It is located on the east coast of Ireland, at the mouth of the River Liffey. The city has a population of 1,348,300 (2016) and is the center of the Dublin metropolitan area, which has a population of 1,906,228 (2016). Dublin is a vibrant and cosmopolitan city with something to offer everyone. The city has a thriving arts scene, with theaters, museums, and galleries. Dublin is also home to many festivals, including the Dublin Film Festival, the Dublin Theatre Festival, and the Dublin City Marathon.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/557/474/428/library-books-trinity-college-library-dublin-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/291/749/265/ha-penny-bridge-and-river-liffey-at-night-dublin-ireland-wallpaper-preview.jpg",
+      "https://c1.wallpaperflare.com/preview/724/161/76/dublin-st-patrick-st-patrick-s-cathedral-cathedral-irish-architecture.jpg",
+      "https://tetu.com/wp-content/uploads/2016/04/irlande12-1024x768.jpg"
+    ]
+  },
+  {
+    "capital": "Douglas",
+    "country": "Isle of Man",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/50/fb/04/the-steam-packet.jpg?w=600&h=400&s=1",
+    "description":"Douglas is the capital and largest town of the Isle of Man, a self-governing British Crown dependency in the Irish Sea. It is located on the east coast of the island, at the mouth of the River Douglas. Douglas is a popular tourist destination, with a mild climate and a variety of attractions, including the Isle of Man Steam Railway, the Manx Museum, and the Villa Marina Theatre. The town is also home to a number of festivals and events, including the Isle of Man TT Races and the Manx Grand Prix.",
+    "images": [
+      "https://www.placenorthwest.co.uk/wp-content/uploads/Douglas-generic-c-John-Hall-for-Culture-Vannin-CC-BY-SA-2.0-bit.ly-SLASH-3MAAIEH-650x460.jpg",
+      "https://c.files.bbci.co.uk/10AD/production/_107096240_horsetram20192.jpg",
+      "https://qtxasset.com/quartz/qcloud1/media/image/luxurytraveladvisor/1522955978/DouglasIsleofManPanmauleiStockGettyImagesPlusGettyImages.jpg/DouglasIsleofManPanmauleiStockGettyImagesPlusGettyImages.jpg?VersionId=bLKAfz_fMgvQFT07HSWacf.xBN.LVnBt",
+      "https://media.istockphoto.com/id/1065171108/photo/panorama-of-douglas-on-the-isle-of-man.jpg?s=612x612&w=0&k=20&c=NURXguKbrET0TTLIEbs2se66M-Kuy1wb_iFgRPy0m2o="
+    ]
+  },
+  {
+    "capital": "Rome",
+    "country": "Italy",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://lp-cms-production.imgix.net/2021-03/500pxRF_77415821.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
+    "description":"Rome is the capital of Italy and one of the most popular tourist destinations in the world. The city is home to a wealth of historical and cultural attractions, including the Colosseum, the Roman Forum, and the Vatican City. Rome was founded in the 8th century BC by the Romans, who made it the capital of their empire. The city reached its peak in the 1st century AD, when it was the largest and most powerful city in the world. Rome continued to be an important center of culture and learning throughout the Middle Ages and Renaissance.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/265/778/338/colosseum-amphitheatre-ancient-colosseum-amphitheatre-wallpaper-preview.jpg",
+      "https://c1.wallpaperflare.com/preview/259/924/891/italy-rome-trevi-fountain-sculpture.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/648/386/575/building-home-area-rome-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/45/849/224/pantheon-rome-italy-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Saint Helier",
+    "country": "Jersey",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.seabourn.com/content/dam/sbn65/inventory-assets/ports/em/sh2/port-st-helier-jersey.jpg",
+    "description":"Saint Helier is the capital of Jersey, a self-governing British Crown dependency in the English Channel. The town is located on the south coast of Jersey, on the eastern end of St Aubin's Bay. It is the most populated parish of Jersey, with a population of over 35,000. Saint Helier is a thriving commercial center, with a wide variety of shops, restaurants, and bars. The town is also home to a number of historical and cultural attractions, including the Elizabeth Castle, the Jersey Museum & Art Gallery, and the Royal Square. Saint Helier is a popular tourist destination, with a mild climate and a beautiful setting. The town is also a popular destination for business travelers, with a number of hotels and conference facilities.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/226/115/694/nature-landscape-beach-sea-wallpaper-preview.jpg",
+      "https://www.britain-magazine.com/wp-content/uploads/JerseyCastle.jpg",
+      "https://cdn.britannica.com/84/126384-050-3671F8F9/Hermitage-Saint-Helier-LIslet-Jersey-Channel-Islands.jpg",
+      "https://previews.123rf.com/images/ambeon/ambeon2103/ambeon210300009/165231986-saint-helier-capital-city-panorama-with-port-and-marina-in-the-foreground-bailiwick-of-jersey.jpg"
+    ]
+  },
+  {
+    "capital": "Pristina",
+    "country": "Kosovo",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://i.pinimg.com/originals/15/50/e1/1550e1defd089b0e1b6b0028d52d6399.jpg",
+    "description":"Pristina is the capital and largest city of Kosovo. It is located in the north-eastern part of the country, close to the Goljak mountains. The city has a population of over 200,000 people, and is the center of government, business, and culture in Kosovo. Pristina has a long and rich history. The city was founded in the 11th century, and has been ruled by a number of different empires, including the Ottomans, the Austrians, and the Serbians. Pristina was heavily damaged during the Kosovo War in the 1990s, but has since been rebuilt. Today, Pristina is a modern city with a mix of old and new architecture. The city is home to a number of universities, museums, and cultural institutions. Pristina is also a popular tourist destination, with a number of historical and cultural attractions, including the Grand Mosque, the Mother Teresa Cathedral, and the Pristina Fortress.",
+    "images": [
+      "https://cdn.getyourguide.com/img/location/5a1d57c05dcf5.jpeg/75.jpg",
+      "https://wander-lush.org/wp-content/uploads/2019/05/Emily-Lush-Prishtina-Kosovo-37.jpg",
+      "https://www.ncronline.org/files/webRNS-KOSOVO2-09052017.jpg",
+      "https://solohappy.com/wp-content/uploads/2022/12/Best-places-to-visit-in-Pristina-Kosovo-1200x640.jpg"
+    ]
+  },
+  {
+    "capital": "Riga",
+    "country": "Latvia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_04_%28cropped%29.JPG/1200px-Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_04_%28cropped%29.JPG",
+    "description":"Riga is the capital of Latvia, located on the Baltic Sea. It is the largest city in the Baltic states with a population of over 600,000 people. Riga has a long and rich history, dating back to the 13th century. The city has been ruled by a number of different empires, including the Germans, the Swedes, and the Russians. Riga was heavily damaged during World War II, but has since been rebuilt. Riga is a beautiful city with a lot to offer visitors. The city is home to a number of historical and cultural attractions, including the Riga Cathedral, the House of the Black Heads, and the Central Market. Riga is also a popular tourist destination for its vibrant nightlife and its many restaurants and bars.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/442/996/899/town-lights-architecture-church-wallpaper-preview.jpg",
+      "https://cdn.britannica.com/78/115478-050-71EB889C/Old-Town-Latvia-Riga-Daugava-River.jpg",
+      "https://www.spectator.co.uk/wp-content/uploads/2022/09/iStock-615926196.jpg",
+      "https://cdn.getyourguide.com/img/location/538cab118c1d7.jpeg/75.jpg"
+    ]
+  },
+  {
+    "capital": "Vaduz",
+    "country": "Liechtenstein",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz.jpg",
+    "description":"Vaduz is the capital and largest city of Liechtenstein, a small German-speaking alpine country located between Switzerland and Austria. It is situated on the Rhine River, at the foot of the Alps. The city has a population of around 5,000 people. Vaduz is a charming city with a medieval feel. The main street, Städtle, is lined with shops, restaurants, and cafes. The city is also home to a number of historical buildings, including Vaduz Castle, the seat of the Liechtenstein government.",
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/237/22/441/two-white-and-gray-kitten-beside-wooden-surface-cats-cats-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/875/550/429/snow-mountains-landscape-nature-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/530/538/361/towns-vaduz-liechtenstein-wallpaper-preview.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz.jpg"
+    ]
+  },
+  {
+    "capital": "Vilnius",
+    "country": "Lithuania",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.roadaffair.com/wp-content/uploads/2020/03/aerial-view-hot-air-balloon-vilnius-lithuania-shutterstock_1288741006.jpg",
+    "description":"Vilnius is the capital of Lithuania, a country located in Eastern Europe. It is the largest city in Lithuania, with a population of over 500,000 people. Vilnius is a beautiful city with a rich history and culture. It is home to many historical and cultural landmarks, including the Vilnius Cathedral, the Gediminas Castle Tower, and the Hill of Three Crosses. Vilnius is also a popular tourist destination, with many things to see and do.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/708/842/390/lithuania-vilnius-cathedral.jpg",
+      "https://c1.wallpaperflare.com/preview/497/55/820/lithuania-vilnius-churches-cathedral.jpg",
+      "https://c1.wallpaperflare.com/preview/513/992/856/lithuania-vilnius-st-catherine-s-church-historically-mirroring-cathedral.jpg",
+      "https://c1.wallpaperflare.com/preview/798/9/297/vilnius-lithuania-europe-city.jpg"
+    ]
+  },
+  {
+    "capital": "Luxembourg",
+    "country": "Luxembourg",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://static.euronews.com/articles/stories/05/66/80/50/1440x810_cmsv2_82112269-e4ca-5196-bb34-92241777d094-5668050.jpg",
+    "description":"Luxembourg is a small country in Western Europe, bordered by Belgium to the west and north, France to the south, and Germany to the east. The capital and largest city of Luxembourg is Luxembourg City. The country has a population of about 640,000 people. Luxembourg is a constitutional monarchy, with Grand Duke Henri as the head of state. The current prime minister is Xavier Bettel. The official languages of Luxembourg are Luxembourgish, French, and German.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/632/826/542/luxembourg-ville-haute-city-architecture.jpg",
+      "https://c1.wallpaperflare.com/preview/17/341/229/luxembourg-city-landscape-cityscape.jpg",
+      "https://c1.wallpaperflare.com/preview/553/221/159/architecture-building-castle-photos.jpg",
+      "https://cdn.britannica.com/08/178008-050-93B5F493/Alzette-River-city-Luxembourg.jpg"
+    ]
+  },
+  {
+    "capital": "Skopje",
+    "country": "Macedonia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.staysure.co.uk/wp-content/uploads/2016/09/Alexander-the-Great-Monument-in-Skopje.jpg",
+    "description":"Skopje is the capital and largest city of North Macedonia. It is located in the central part of the country, on the banks of the Vardar River. The city has a population of about 546,000 people. Today, Skopje is a modern city with a mix of old and new architecture. The city is home to a number of historical and cultural landmarks, including the Old Bazaar, the Kale Fortress, and the Mother Teresa Memorial House. Skopje is also a popular tourist destination, known for its vibrant nightlife and its delicious food.",
+    "images": [
+      "https://explore.mk/wp-content/uploads/2020/02/shutterstock_173849720.jpg",
+      "https://explore.mk/wp-content/uploads/2020/02/shutterstock_142027141aaa.png",
+      "https://www.golivegotravel.nl/wp-content/uploads/2018/12/Statues-Skopje.jpeg",
+      "https://freesofiatour.com/wp-content/uploads/2020/01/how-to-get-to-skopje-e1579877405853.jpg"
+    ]
+  },
+  {
+    "capital": "Valletta",
+    "country": "Malta",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://a.cdn-hotels.com/gdcs/production38/d1036/f7b5ecf3-139d-4c55-b89f-a79f655e2224.jpg",
+    "description":"Valletta is the capital of Malta, a small island nation in the Mediterranean Sea. It is a walled city that was founded in the 16th century by the Knights of St. John, a Roman Catholic military order. Valletta is known for its Baroque architecture, its many museums and palaces, and its stunning views of the Mediterranean Sea. Valletta was named a UNESCO World Heritage Site in 1980. It is the smallest capital city in the European Union, with a population of just over 5,000 people.",
+    "images": [
+      "https://e1.pxfuel.com/desktop-wallpaper/666/906/desktop-wallpaper-valletta-capital-of-malta-grand-harbour-old-valletta.jpg",
+      "https://image.geo.de/30128698/t/jk/v4/w1440/r0/-/valetta-f-105026194-jpg--73015-.jpg",
+      "https://www.weseektravel.com/wp-content/uploads/2022/11/things-to-do-in-valletta-malta-1.jpg",
+      "https://www.travellingking.com/wp-content/uploads/2022/10/Valletta-Aerial-view-of-Valletta-city-capital-of-Malta-country.-.jpg"
+    ]
+  },
+  {
+    "capital": "Chişinău",
+    "country": "Moldova",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://t3.ftcdn.net/jpg/02/31/19/22/360_F_231192271_RypDJREDSkBdnBbp1rvLN8qBu5awRubi.jpg",
+    "description":"Chisinau, also known as Kishinev, is the capital of Moldova. It is located in the central part of the country, on the Bâc River. The city has a population of over 600,000 people.\n\nChisinau is a relatively young city, founded in 1752. The city was originally named Kishinev, after the name of a nearby village. In 1812, Kishinev was annexed by the Russian Empire and renamed Chisinau.\n\nChisinau is a major cultural and economic center in Moldova. The city is home to a number of universities, museums, and theaters. Chisinau is also a major industrial center, with a number of factories producing wine, food, and textiles.",
+    "images": [
+      "https://static.independent.co.uk/2021/09/24/16/iStock-1066138896.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arch_of_Triumph%2C_Chisinau%2C_Republic_of_Moldova_%2851160304626_cropped%29.jpg/1200px-Arch_of_Triumph%2C_Chisinau%2C_Republic_of_Moldova_%2851160304626_cropped%29.jpg",
+      "https://d1bvpoagx8hqbg.cloudfront.net/originals/experience-chisinau-moldova-alexandra-20a84e1dbde81963ff3323a47fe83978.jpg",
+      "https://img.ev.mu/images/attractions/7282/960x640/753308.jpg"
+    ]
+  },
+  {
+    "capital": "Monaco",
+    "country": "Monaco",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://static.euronews.com/articles/stories/06/17/95/94/1440x810_cmsv2_2f761865-3d02-59bc-9c7f-06158b32b00d-6179594.jpg",
+    "description":"Monaco, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera a few kilometres west of the Italian region of Liguria, in Western Europe, on the Mediterranean Sea. It is bordered by France to the north, east and west. Monaco is the second smallest country in the world, after Vatican City. It is also the most densely populated country in the world, with a population of over 38,000 people living in an area of just 0.78 square miles.",
+    "images": [
+      "https://e1.pxfuel.com/desktop-wallpaper/242/882/desktop-wallpaper-the-monte-carlo-casino-monte-carlo-monaco-widescreen-monaco.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/194/592/15/cities-monaco-cruise-ship-museum-wallpaper-preview.jpg",
+      "https://img.bekiaviajes.com/articulos/portada/79000/79686.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/ferraris-monegasque-driver-charles-leclerc-drives-during-news-photo-1650649175.jpg"
+    ]
+  },
+  {
+    "capital": "Podgorica",
+    "country": "Montenegro",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://waytomonte.com/img/slider/8/1/7055/60f4ee3a5707e0c918a90da0dabf8a10_thumb.jpg",
+    "description":"Podgorica is the capital and largest city of Montenegro. It is located in the central part of the country, on the banks of the Morača River. The city has a population of about 198,000 people. Podgorica is a young city, with its current form dating back to the 19th century. However, the city has a long and rich history, dating back to the 7th century BC. Podgorica was once the capital of the Kingdom of Duklja, and it was also an important center of the Roman Empire and the Ottoman Empire.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/87/646/512/podgorica-montenegro-city-capital.jpg",
+      "https://cdn.britannica.com/43/145343-050-5042276C/Podgorica-Monte.jpg",
+      "https://thumbs.dreamstime.com/b/podgorica-panoramic-view-capital-largest-city-montenegro-residential-commercial-part-podgori-sunny-winter-day-172944566.jpg",
+      "https://www.bhfieldschool.org/uploaded/gallery/BH%20Field%20School%20Towns%20-%20Podgorica.1-6961.JPG"
+    ]
+  },
+  {
+    "capital": "Amsterdam",
+    "country": "Netherlands",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://media.timeout.com/images/105504583/750/422/image.jpg",
+    "description":"Amsterdam is the capital of the Netherlands, located in the province of North Holland. It is the most populous city in the Netherlands, with a population of over 870,000 people. Amsterdam is a popular tourist destination, known for its canals, museums, and vibrant nightlife. The city is built on a series of canals, which are used for transportation and recreation. The canals are lined with beautiful 17th-century houses, which give the city a unique charm. Amsterdam is home to a number of museums, including the Rijksmuseum, the Van Gogh Museum, and the Anne Frank House. The Rijksmuseum houses a collection of Dutch art, including works by Rembrandt and Vermeer. The Van Gogh Museum houses a collection of Van Gogh's paintings, including \"The Starry Night\" and \"Sunflowers.\" The Anne Frank House is a museum dedicated to the life of Anne Frank, a Jewish girl who hid from the Nazis during World War II.",
+    "images": [
+      "https://static.independent.co.uk/2021/10/08/17/iStock-516188849.jpg",
+      "https://a.cdn-hotels.com/gdcs/production82/d1440/1c5a8da3-35c4-48ce-a6a8-bbedc5fd013e.jpg",
+      "https://a.cdn-hotels.com/gdcs/production92/d539/dde53919-277b-4cdc-90fc-dfae0846b282.jpg",
+      "https://cdn-ffeol.nitrocdn.com/XvtpqXVmEaOeVBUbzBMDShrhLDOERTbY/assets/static/optimized/rev-a667f81/wp-content/uploads/2021/02/Prettiest-Amsterdam-streets.jpg"
+    ]
+  },
+  {
+    "capital": "Oslo",
+    "country": "Norway",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://a.cdn-hotels.com/gdcs/production106/d1597/5303351b-a7d2-4775-994a-348002ea13d2.jpg",
+    "description":"Oslo is the capital and most populous city of Norway. It is located in southeastern Norway, on the Oslofjord. The city has a population of about 672,000 people. Oslo is a modern city with a mix of old and new architecture. The city is home to a number of historical and cultural landmarks, including the Akershus Fortress, the Royal Palace, and the Oslo Opera House. Oslo is also a popular tourist destination, known for its vibrant nightlife and its delicious food.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/662/779/806/city-urban-bridge-sunset.jpg",
+      "https://c1.wallpaperflare.com/preview/19/136/953/oslo-opera-house-norway-opera.jpg",
+      "https://c1.wallpaperflare.com/preview/539/76/845/akershus-fortress-at-night-norway.jpg",
+      "https://c1.wallpaperflare.com/preview/707/1009/149/oslo-castle-norway-royal-castle.jpg"
+    ]
+  },
+  {
+    "capital": "Warsaw",
+    "country": "Poland",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://s.inyourpocket.com/img/text/poland/warsaw/warsaw-city-centre_drone-in-warsaw-2.jpg",
+    "description":"Warsaw is the capital and largest city of Poland. It is located on the Vistula River in east-central Poland, and its population is officially estimated at 1.765 million as of 2017. Warsaw is the most populous city in Poland and the 9th most populous city in the European Union. Warsaw is a popular tourist destination, known for its historical and cultural landmarks, including the Old Town, the Royal Castle, and the Palace of Culture and Science. Warsaw is also home to a number of museums and art galleries, including the National Museum, the Warsaw Uprising Museum, and the Copernicus Science Centre.",
+    "images": [
+      "https://e0.pxfuel.com/wallpapers/952/644/desktop-wallpaper-palace-of-culture-and-science-warsaw-poland-%E2%9D%A4-ultra-culture.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/599/175/739/dusk-eu-europe-poland-wallpaper-preview.jpg",
+      "https://c0.wallpaperflare.com/preview/359/442/555/poland-warsaw-%C5%82azienki-park-park.jpg",
+      "https://dag08uxs564ub.cloudfront.net/images/warsaw-the-old-town.max-1280x768.jpg"
+    ]
+  },
+  {
+    "capital": "Lisbon",
+    "country": "Portugal",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.back-packer.org/wp-content/uploads/best-things-to-do-in-lisbon-portugal-title.jpg",
+    "description":"\nLisbon is the capital and largest city of Portugal, with a population of approximately 505,000 within its administrative limits. It is located on the western coast of the Iberian Peninsula, on the Tagus River estuary. Lisbon is a beautiful city with a lot to offer visitors. The city is home to a number of historical and cultural landmarks, including the São Jorge Castle, the Belém Tower, and the Jerónimos Monastery. Lisbon is also home to a number of museums, art galleries, and theaters.",
+    "images": [
+      "https://c1.wallpaperflare.com/preview/1012/802/545/jeronimos-monastery-monastery-church-religion-lisbon-portugal.jpg",
+      "https://c1.wallpaperflare.com/preview/689/804/980/lisbon-portugal-castle-of-sao-jorge-castle.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/306/557/199/castle-belem-tower-lisbon-portugal-wallpaper-preview.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/681/364/897/rossio-square-lisbon-portugal-wallpaper-preview.jpg"
+    ]
+  },
+  {
+    "capital": "Bucharest",
+    "country": "Romania",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/Cover-for-Summer-In-Bucharest.jpg",
+    "description":"Bucharest is the capital and largest city of Romania. It is located in the south of the country, on the banks of the Dâmbovița River. The city has a population of over 1.9 million people. Bucharest is a city with a long and rich history. It was founded in the 14th century and was the capital of the Principality of Wallachia from 1459 to 1861. In 1861, Bucharest became the capital of the United Principalities of Romania.",
+    "images": [
+      "https://romaniatourstore.com/wp-content/uploads/2016/09/Triumphant-Arch-Bucharest-2.jpg",
+      "https://romaniatourstore.com/wp-content/uploads/2015/10/The-Palace-of-Parliament.jpg",
+      "https://romaniatourstore.com/wp-content/uploads/2014/03/shutterstock_493813045.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/16/cc/43.jpg"
+    ]
+  },
+  {
+    "capital": "San Marino",
+    "country": "San Marino",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://www.solosophie.com/wp-content/uploads/2023/04/san-marino-guide_1381614365.jpeg",
+    "description":"San Marino is a small country located in the central part of Italy. It is completely surrounded by Italy and has an area of only 61 square kilometers. The capital of San Marino is also called San Marino. San Marino is the fifth smallest country in the world and the third smallest country in Europe. It has a population of about 33,000 people. The official language of San Marino is Italian. San Marino is a microstate, which means that it is a sovereign state that is very small in size. It is the oldest surviving republic in the world, having been founded in 301 AD.",
+    "images": [
+      "https://cdn.britannica.com/02/141002-050-7B946D16/one-fortresses-Guaita-city-San-Marino.jpg",
+      "https://www.beerandcroissants.com/wp-content/uploads/2017/12/city-of-san-marino.jpg",
+      "https://s27363.pcdn.co/wp-content/uploads/2017/10/San-Marino-in-Rain.jpg.optimal.jpg",
+      "https://cdn.britannica.com/54/142954-050-C5675BFB/Borgo-Maggiore-San-Marino.jpg"
+    ]
+  },
+  {
+    "capital": "Belgrade",
+    "country": "Serbia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://deih43ym53wif.cloudfront.net/sava-river-belgrade-serbia-shutterstock_695817301_6e9c75d6d4.jpeg",
+    "description":"Belgrade is the capital and largest city of Serbia. It is located at the confluence of the Sava and Danube rivers, in the central part of the country. The city has a population of over 1.2 million people. Belgrade is a beautiful and vibrant city with a lot to offer visitors. The city is home to a number of historical and cultural landmarks, including the Belgrade Fortress, the National Assembly of Serbia, and the Temple of Saint Sava. Belgrade is also home to a number of museums, art galleries, and theaters.",
+    "images": [
+      "https://lp-cms-production.imgix.net/features/2017/09/Belgrade-Knez-Mihailova-street-af958c3aa30c.jpg",
+      "https://cdn.britannica.com/57/96057-050-BD18B6F6/Boats-Danube-River-Belgrade-Serbia.jpg",
+      "https://efs-belgrade2022.org/wp-content/uploads/2022/09/Knez.png",
+      "https://www.nationsonline.org/gallery/Serbia/Aerial-view-of-Belgrade.jpg"
+    ]
+  },
+  {
+    "capital": "Bratislava",
+    "country": "Slovakia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://sacr3-files.s3-eu-west-1.amazonaws.com/_processed_/csm_Bratislavsky%2520hrad_94d492b936.jpg",
+    "description":"\nBratislava is the capital of Slovakia and the country's largest city. It is located at the confluence of the Danube and Morava rivers, on the western edge of the Carpathian Mountains. The city has a population of about 430,000 people. Bratislava is a beautiful and vibrant city with a lot to offer visitors. The city is home to a number of historical and cultural landmarks, including the Bratislava Castle, the Old Town, and the Primatial Palace. Bratislava is also home to a number of museums, art galleries, and theaters.",
+    "images": [
+      "https://33traveltips.com/wp-content/uploads/Facts-about-Bratislava.jpg",
+      "https://d2bgjx2gb489de.cloudfront.net/gbb-blogs/wp-content/uploads/2020/07/01093015/Bratislava.jpg",
+      "https://www.gastrotravelogue.com/wp-content/uploads/2017/09/Old-Town.jpg",
+      "https://www.novo-monde.com/app/uploads/2022/10/musee-histoire-1024x768.jpg"
+    ]
+  },
+  {
+    "capital": "Ljubljana",
+    "country": "Slovenia",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cdn.britannica.com/79/124479-050-DD359499/Ljubljana-Slovenia.jpg",
+    "description":"Ljubljana is the capital and largest city of Slovenia. It is located in the central part of the country, on the banks of the Ljubljanica River. The city has a population of about 293,000 people. Ljubljana is a beautiful and vibrant city with a lot to offer visitors. The city is home to a number of historical and cultural landmarks, including the Ljubljana Castle, the Triple Bridge, and the Prešeren Square. Ljubljana is also home to a number of museums, art galleries, and theaters.",
+    "images": [
+      "https://cdn.britannica.com/79/124479-050-DD359499/Ljubljana-Slovenia.jpg",
+      "https://cdn.britannica.com/68/93068-050-E7C71026/Ljubljana-Ljubljanica-River-Slovenia.jpg",
+      "https://www.iwanderlista.com/wp-content/uploads/2019/08/Ljubljana-18.jpg",
+      "https://esacroatia.com/app/uploads/2012/06/Ljubljanabynight-1024x721.jpg"
+    ]
+  },
+  {
+    "capital": "Madrid",
+    "country": "Spain",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6a/f5/4c/caption.jpg?w=500&h=300&s=1",
+    "description":"Madrid is a city of contrasts. It is a modern city with a rich history. It is a city of culture and nightlife. It is a city of art and architecture. It is a city of parks and gardens. It is a city of people from all over the world. Madrid is a city that has something to offer everyone. Whether you are interested in history, culture, art, food, or nightlife, you are sure to find something to enjoy in Madrid.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg/1200px-Gran_V%C3%ADa_%28Madrid%29_1.jpg",
+      "https://deih43ym53wif.cloudfront.net/cibeles-fountain-madrid-spain-shutterstock_556870582_cf4a306a5b.jpeg",
+      "https://a.cdn-hotels.com/gdcs/production196/d170/348659c0-9beb-11e8-a1b5-0242ac110053.jpg",
+      "https://media.gq-magazine.co.uk/photos/5d1396399fa60179288385ed/4:3/w_1704,h_1278,c_limit/Madrid-02-GQ-17May17_b.jpg"
+    ]
+  },
+  {
+    "capital": "Longyearbyen",
+    "country": "Svalbard and Jan Mayen",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://ychef.files.bbci.co.uk/live/624x351/p04qw8tg.jpg",
+    "description":"Longyearbyen is the world's northernmost settlement with a population greater than 1,000 and the largest inhabited area of Svalbard, Norway. It stretches along the foot of the left bank of the Longyear Valley and on the shore of Adventfjorden, the short estuary leading into Isfjorden on the west coast of Spitsbergen, the island's broadest inlet. As of 2002 Longyearbyen Community Council became an official Norwegian municipality.",
+    "images": [
+      "https://www.meganstarr.com/wp-content/uploads/2020/02/What-to-know-before-visiting-Svalbard-tips-for-Spitsbergen-and-beyond-4.jpg",
+      "https://previews.123rf.com/images/aleksandrlutcenko/aleksandrlutcenko1602/aleksandrlutcenko160200114/53971447-a-city-details-of-longyearbyen-the-most-northern-settlement-in-the-world-spitsbergen-svalbard.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/1200px-Longyearbyen-as-of-2022.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Longyearbyen4.jpg"
+    ]
+  },
+  {
+    "capital": "Stockholm",
+    "country": "Sweden",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://i2-prod.mirror.co.uk/incoming/article6088198.ece/ALTERNATES/s1200b/Riddarholmen-Old-Town-in-Stockholm.jpg",
+    "description":"Stockholm is the capital of Sweden and the most populous city in the Nordic countries. It is built on 14 islands in central Sweden on the Baltic Sea coast, an ideal location for trade. The city has a population of about 975,000 people, and its metropolitan area is home to over 2.3 million people. Stockholm is a beautiful and historic city with a lot to offer visitors. The city is home to a number of historical and cultural landmarks, including the Royal Palace, the Gamla Stan (Old Town), and the Vasa Museum. Stockholm is also home to a number of museums, art galleries, and theaters.",
+    "images": [
+      "https://s3-eu-north-1.amazonaws.com/py3.visitsweden.com/images/Trygg_Sthlm_Heli_2_352_High-res-CMSTemplate_g.width-1650.jpg",
+      "https://i2-prod.mirror.co.uk/incoming/article6088198.ece/ALTERNATES/s1200b/Riddarholmen-Old-Town-in-Stockholm.jpg",
+      "https://www.meganstarr.com/wp-content/uploads/2023/02/Best-things-to-do-in-Stockholm_2090319031.jpg",
+      "https://www.stockholmfreetour.com/wp-content/uploads/2017/01/The-Royale-Palace.jpg"
+    ]
+  },
+  {
+    "capital": "Berne",
+    "country": "Switzerland",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://media.istockphoto.com/id/475439326/photo/bern.jpg?s=612x612&w=0&k=20&c=CMhqdUyCazMsEiDq9SdNIZDUCZQj_ODadTYmwRV-emk=",
+    "description":"Berne (Swiss German: Bärn, pronounced [ˈbɛːrn]) is the de facto capital of Switzerland and the capital of the canton of Bern. It is located in the west-central part of Switzerland, on the Aare River in the foothills of the Alps. The city has a population of about 133,000 people (as of 2022), and its metropolitan area is home to over 660,000 people. Bern was founded in the 12th century by the Dukes of Zähringen. The city grew rapidly in the 13th and 14th centuries, and became a major center of trade and commerce. In 1353, Bern joined the Swiss Confederacy, and became its capital in 1848.",
+    "images": [
+      "https://www.alibabuy.com/photos/library/1500/13008.jpg",
+      "https://www.chateauberne.com/wp-content/uploads/2021/10/2-A-drone-hotel-@droneyourproperty-1000x700.png",
+      "https://www.swisscaution.ch/wp-content/uploads/Berne-1100x733-2.jpeg",
+      "https://c1.wallpaperflare.com/preview/925/12/916/swiss-berne-the-old-town.jpg"
+    ]
+  },
+  {
+    "capital": "Kyiv",
+    "country": "Ukraine",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://cdnp.flypgs.com/files/Sehirler-long-tail/Kyiv/kyiv-bag_ms_zl_k-anit.jpg",
+    "description":"Kyiv is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. As of 1 January 2022, its population was 2,952,301, making Kyiv the seventh-most populous city in Europe. Kyiv is an important industrial, scientific, educational, and cultural center in Eastern Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. The city has an extensive system of public transport and infrastructure, including the Kyiv Metro. Kyiv is a very old city, with a history dating back to the 9th century. It was founded by the Slavic people and was the capital of the first Slavic state, Kievan Rus. Kyiv was a major center of trade and culture in the Middle Ages and was home to many important religious and cultural institutions. The city was also a major center of the Cossack movement in the 17th and 18th centuries.",
+    "images": [
+      "https://gdb.rferl.org/fc06b200-8659-4f79-8184-874ceb34616e_w1080_r0_s.jpg",
+      "https://upload.wikimedia.org/wikipedia/uk/a/a8/Kiev_Independence_Square_cropped.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/252/246/522/golden-gate-kiev-ukraine-zoloti-vorota-wallpaper-preview.jpg",
+      "https://static.dw.com/image/62926482_605.jpeg"
+    ]
+  },
+  {
+    "capital": "London",
+    "country": "United Kingdom",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://planetofhotels.com/guide/sites/default/files/styles/node__blog_post__bp_banner/public/live_banner/London-1.jpg",
+    "description":"London is the capital of England and the United Kingdom. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants. London is a global city, with strengths in finance, banking, commerce, entertainment, the arts, fashion, research, technology, education, and tourism. London has been a major settlement for two millennia. Its core, the ancient City of London, largely retains its square-mile medieval boundaries. Today, the City of London is a major financial, commercial and cultural centre, with an independent economy. The bulk of London's more than 2.9 million residents live in the surrounding metropolitan area, which extends beyond Greater London.",
+    "images": [
+      "https://cdn.britannica.com/38/242638-050-D96EB78F/Buckingham-Palace-Victoria-Memorial-Tulips-London-England.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/246/582/347/evening-europe-tower-bridge-london-wallpaper-preview.jpg",
+      "https://c1.wallpaperflare.com/preview/53/944/1005/big-ben-clock-lights-reflection.jpg",
+      "https://e0.pxfuel.com/wallpapers/622/355/desktop-wallpaper-london-eye-ferris-wheel-awesome-aesthetic-london.jpg"
+    ]
+  },
+  {
+    "capital": "Vatican",
+    "country": "Vatican",
+    "favourite": false,
+    "visited": false,
+    "planned": false,
+    "url": "https://mamalovesrome.com/wp-content/uploads/2021/05/Vatican-City-St-Peter-basilica-DP.jpg",
+    "description":"The Vatican City is a walled enclave within the city of Rome. It is the smallest internationally recognized independent state in the world by both area and population, having an area of approximately 49 hectares (121 acres) and a population of just over 800 people. Vatican City is the seat of the Roman Catholic Church, the world's largest Christian church. The Pope is the head of state of the Vatican City and the supreme leader of the Catholic Church. The Vatican City was established in 1929 with the signing of the Lateran Treaty between the Holy See and Italy. The treaty ended the Roman Question, a dispute between the papacy and Italy that had lasted for over half a century. The Vatican City is a sovereign state and is not part of Italy. It has its own flag, currency, and postal service.",
+    "images": [
+      "https://cdn.britannica.com/38/242638-050-D96EB78F/Buckingham-Palace-Victoria-Memorial-Tulips-London-England.jpg",
+      "https://cdn.britannica.com/96/175196-050-EA0EF9D1/St-Peters-Basilica-Vatican-City.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/ba/c1/d8.jpg",
+      "https://assets.editorial.aetnd.com/uploads/2023/03/vatican-city-GettyImages-1097352500.jpg"
+    ]
+  }
+]
